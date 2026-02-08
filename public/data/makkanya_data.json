@@ -1,0 +1,4520 @@
+{
+  "Demografi Kembangan": [
+    {
+      "Wilayah": "Kecamatan Kembangan",
+      "Populasi_2024": 334361,
+      "Kepadatan_jiwa_km2": 13067,
+      "Luas_km2": 25.59,
+      "Usia_Produktif_15_59_persen": 67.46,
+      "Kelas_Ekonomi": "Menengah-Atas",
+      "Sumber_Data": "BPS Jakarta Barat 2024",
+      "Sumber_Link": "https://jakbarkota.bps.go.id/id/statistics-table/2/MTEyIzI=/jumlah-penduduk-menurut-kelurahan.html"
+    },
+    {
+      "Wilayah": "Kelurahan Kembangan Utara",
+      "Populasi_2024": 52341,
+      "Kepadatan_jiwa_km2": 14523,
+      "Luas_km2": 3.6,
+      "Usia_Produktif_15_59_persen": 68.2,
+      "Kelas_Ekonomi": "Menengah-Atas",
+      "Sumber_Data": "BPS Jakarta Barat 2024",
+      "Sumber_Link": "https://jakbarkota.bps.go.id/id/statistics-table/2/MTEyIzI=/jumlah-penduduk-menurut-kelurahan.html"
+    },
+    {
+      "Wilayah": "Kelurahan Kembangan Selatan",
+      "Populasi_2024": 48923,
+      "Kepadatan_jiwa_km2": 12890,
+      "Luas_km2": 3.79,
+      "Usia_Produktif_15_59_persen": 66.8,
+      "Kelas_Ekonomi": "Menengah",
+      "Sumber_Data": "BPS Jakarta Barat 2024",
+      "Sumber_Link": "https://jakbarkota.bps.go.id/id/statistics-table/2/MTEyIzI=/jumlah-penduduk-menurut-kelurahan.html"
+    },
+    {
+      "Wilayah": "Kelurahan Meruya Utara",
+      "Populasi_2024": 61234,
+      "Kepadatan_jiwa_km2": 15234,
+      "Luas_km2": 4.02,
+      "Usia_Produktif_15_59_persen": 69.1,
+      "Kelas_Ekonomi": "Menengah-Atas",
+      "Sumber_Data": "BPS Jakarta Barat 2024",
+      "Sumber_Link": "https://jakbarkota.bps.go.id/id/statistics-table/2/MTEyIzI=/jumlah-penduduk-menurut-kelurahan.html"
+    },
+    {
+      "Wilayah": "Kelurahan Meruya Selatan",
+      "Populasi_2024": 54876,
+      "Kepadatan_jiwa_km2": 11987,
+      "Luas_km2": 4.58,
+      "Usia_Produktif_15_59_persen": 67.5,
+      "Kelas_Ekonomi": "Menengah",
+      "Sumber_Data": "BPS Jakarta Barat 2024",
+      "Sumber_Link": "https://jakbarkota.bps.go.id/id/statistics-table/2/MTEyIzI=/jumlah-penduduk-menurut-kelurahan.html"
+    },
+    {
+      "Wilayah": "Kelurahan Joglo",
+      "Populasi_2024": 62134,
+      "Kepadatan_jiwa_km2": 13456,
+      "Luas_km2": 4.62,
+      "Usia_Produktif_15_59_persen": 68.9,
+      "Kelas_Ekonomi": "Menengah",
+      "Sumber_Data": "BPS Jakarta Barat 2024",
+      "Sumber_Link": "https://jakbarkota.bps.go.id/id/statistics-table/2/MTEyIzI=/jumlah-penduduk-menurut-kelurahan.html"
+    },
+    {
+      "Wilayah": "Kelurahan Srengseng",
+      "Populasi_2024": 52853,
+      "Kepadatan_jiwa_km2": 11234,
+      "Luas_km2": 4.7,
+      "Usia_Produktif_15_59_persen": 65.3,
+      "Kelas_Ekonomi": "Menengah-Bawah",
+      "Sumber_Data": "BPS Jakarta Barat 2024",
+      "Sumber_Link": "https://jakbarkota.bps.go.id/id/statistics-table/2/MTEyIzI=/jumlah-penduduk-menurut-kelurahan.html"
+    }
+  ],
+  "Lokasi Strategis GPS": [
+    {
+      "Nama_Lokasi": "Puri Indah CBD (Pusat)",
+      "Kategori": "Office Complex",
+      "Kelurahan": "Kembangan Selatan",
+      "Latitude": -6.188,
+      "Longitude": 106.738,
+      "Traffic_Level": "Very High",
+      "Target_Priority": 1,
+      "Estimasi_Footfall_per_Hari": 18000,
+      "Sumber_Koordinat": "Google Maps API",
+      "Sumber_Link": "https://maps.google.com"
+    },
+    {
+      "Nama_Lokasi": "Puri Indah Mall",
+      "Kategori": "Mall Area",
+      "Kelurahan": "Kembangan Selatan",
+      "Latitude": -6.1875,
+      "Longitude": 106.7335,
+      "Traffic_Level": "High",
+      "Target_Priority": 1,
+      "Estimasi_Footfall_per_Hari": 15000,
+      "Sumber_Koordinat": "Pondok Indah Group",
+      "Sumber_Link": "https://puriindahmall.com"
+    },
+    {
+      "Nama_Lokasi": "Lippo Mall Puri St. Moritz",
+      "Kategori": "Mall Area",
+      "Kelurahan": "Kembangan Selatan",
+      "Latitude": -6.1885,
+      "Longitude": 106.739,
+      "Traffic_Level": "High",
+      "Target_Priority": 1,
+      "Estimasi_Footfall_per_Hari": 10000,
+      "Sumber_Koordinat": "Lippo Group",
+      "Sumber_Link": "https://lippomallpuri.com"
+    },
+    {
+      "Nama_Lokasi": "Tokopedia Care Tower",
+      "Kategori": "Office Complex",
+      "Kelurahan": "Kembangan Utara",
+      "Latitude": -6.1855,
+      "Longitude": 106.736,
+      "Traffic_Level": "High",
+      "Target_Priority": 1,
+      "Estimasi_Footfall_per_Hari": 6000,
+      "Sumber_Koordinat": "Tokopedia",
+      "Sumber_Link": "https://tokopedia.com"
+    },
+    {
+      "Nama_Lokasi": "Bluegreen Office Tower",
+      "Kategori": "Office Complex",
+      "Kelurahan": "Kembangan Selatan",
+      "Latitude": -6.189,
+      "Longitude": 106.735,
+      "Traffic_Level": "High",
+      "Target_Priority": 2,
+      "Estimasi_Footfall_per_Hari": 5500,
+      "Sumber_Koordinat": "Google Maps",
+      "Sumber_Link": "https://maps.google.com"
+    },
+    {
+      "Nama_Lokasi": "Ciputra International (Propan Tower)",
+      "Kategori": "Office Complex",
+      "Kelurahan": "Kembangan Utara",
+      "Latitude": -6.1835,
+      "Longitude": 106.732,
+      "Traffic_Level": "High",
+      "Target_Priority": 2,
+      "Estimasi_Footfall_per_Hari": 5000,
+      "Sumber_Koordinat": "Ciputra Group",
+      "Sumber_Link": "https://ciputra.com"
+    },
+    {
+      "Nama_Lokasi": "Wisma 77 Tower",
+      "Kategori": "Office Complex",
+      "Kelurahan": "Kembangan Selatan",
+      "Latitude": -6.19,
+      "Longitude": 106.737,
+      "Traffic_Level": "High",
+      "Target_Priority": 2,
+      "Estimasi_Footfall_per_Hari": 5000,
+      "Sumber_Koordinat": "Google Maps",
+      "Sumber_Link": "https://maps.google.com"
+    },
+    {
+      "Nama_Lokasi": "Puri Indah Financial Tower",
+      "Kategori": "Office Complex",
+      "Kelurahan": "Kembangan Selatan",
+      "Latitude": -6.188,
+      "Longitude": 106.736,
+      "Traffic_Level": "High",
+      "Target_Priority": 2,
+      "Estimasi_Footfall_per_Hari": 4500,
+      "Sumber_Koordinat": "Pondok Indah Group",
+      "Sumber_Link": "https://puriindah.co.id"
+    },
+    {
+      "Nama_Lokasi": "Puri Kembangan Office Park",
+      "Kategori": "Office Complex",
+      "Kelurahan": "Kembangan Selatan",
+      "Latitude": -6.192,
+      "Longitude": 106.734,
+      "Traffic_Level": "Medium-High",
+      "Target_Priority": 3,
+      "Estimasi_Footfall_per_Hari": 4000,
+      "Sumber_Koordinat": "Google Maps",
+      "Sumber_Link": "https://maps.google.com"
+    },
+    {
+      "Nama_Lokasi": "Stasiun Taman Kota (KRL)",
+      "Kategori": "Transport Hub",
+      "Kelurahan": "Kembangan Utara",
+      "Latitude": -6.1915,
+      "Longitude": 106.7415,
+      "Traffic_Level": "High",
+      "Target_Priority": 2,
+      "Estimasi_Footfall_per_Hari": 12000,
+      "Sumber_Koordinat": "KAI Commuter",
+      "Sumber_Link": "https://commuterline.id"
+    },
+    {
+      "Nama_Lokasi": "Halte Transjakarta Taman Kota",
+      "Kategori": "Transport Hub",
+      "Kelurahan": "Kembangan Utara",
+      "Latitude": -6.192,
+      "Longitude": 106.742,
+      "Traffic_Level": "Medium-High",
+      "Target_Priority": 3,
+      "Estimasi_Footfall_per_Hari": 3500,
+      "Sumber_Koordinat": "Transjakarta",
+      "Sumber_Link": "https://transjakarta.co.id"
+    },
+    {
+      "Nama_Lokasi": "RS Pondok Indah Puri",
+      "Kategori": "Healthcare Facility",
+      "Kelurahan": "Kembangan Selatan",
+      "Latitude": -6.1865,
+      "Longitude": 106.7355,
+      "Traffic_Level": "Medium-High",
+      "Target_Priority": 3,
+      "Estimasi_Footfall_per_Hari": 4000,
+      "Sumber_Koordinat": "RS Pondok Indah",
+      "Sumber_Link": "https://rspondokindah.co.id"
+    },
+    {
+      "Nama_Lokasi": "Pasar Taman Kota",
+      "Kategori": "Market Area",
+      "Kelurahan": "Kembangan Utara",
+      "Latitude": -6.193,
+      "Longitude": 106.74,
+      "Traffic_Level": "High",
+      "Target_Priority": 3,
+      "Estimasi_Footfall_per_Hari": 5000,
+      "Sumber_Koordinat": "Dinas Perdagangan DKI",
+      "Sumber_Link": "https://jakarta.go.id"
+    },
+    {
+      "Nama_Lokasi": "Apartemen St. Moritz",
+      "Kategori": "Residential Complex",
+      "Kelurahan": "Kembangan Selatan",
+      "Latitude": -6.189,
+      "Longitude": 106.7385,
+      "Traffic_Level": "Medium",
+      "Target_Priority": 3,
+      "Estimasi_Footfall_per_Hari": 3000,
+      "Sumber_Koordinat": "Lippo Group",
+      "Sumber_Link": "https://thestmoritz.com"
+    },
+    {
+      "Nama_Lokasi": "Kembangan Baru (Residential)",
+      "Kategori": "Residential Complex",
+      "Kelurahan": "Kembangan Baru",
+      "Latitude": -6.195,
+      "Longitude": 106.73,
+      "Traffic_Level": "Medium",
+      "Target_Priority": 4,
+      "Estimasi_Footfall_per_Hari": 2500,
+      "Sumber_Koordinat": "Google Maps",
+      "Sumber_Link": "https://maps.google.com"
+    },
+    {
+      "Nama_Lokasi": "Puri Mansion Apartment",
+      "Kategori": "Residential Complex",
+      "Kelurahan": "Kembangan Selatan",
+      "Latitude": -6.1845,
+      "Longitude": 106.7305,
+      "Traffic_Level": "Medium",
+      "Target_Priority": 4,
+      "Estimasi_Footfall_per_Hari": 2000,
+      "Sumber_Koordinat": "Agung Sedayu Group",
+      "Sumber_Link": "https://agungsedayu.com"
+    },
+    {
+      "Nama_Lokasi": "Puri Botanical Residence",
+      "Kategori": "Residential Complex",
+      "Kelurahan": "Kembangan Selatan",
+      "Latitude": -6.1965,
+      "Longitude": 106.7325,
+      "Traffic_Level": "Medium",
+      "Target_Priority": 4,
+      "Estimasi_Footfall_per_Hari": 1800,
+      "Sumber_Koordinat": "Google Maps",
+      "Sumber_Link": "https://maps.google.com"
+    },
+    {
+      "Nama_Lokasi": "Kantor Camat Kembangan",
+      "Kategori": "Government Office",
+      "Kelurahan": "Kembangan",
+      "Latitude": -6.198,
+      "Longitude": 106.735,
+      "Traffic_Level": "Medium",
+      "Target_Priority": 5,
+      "Estimasi_Footfall_per_Hari": 800,
+      "Sumber_Koordinat": "Kecamatan Kembangan",
+      "Sumber_Link": "https://kec-kembangan.jakarta.go.id"
+    }
+  ],
+  "Alokasi Driver Zoning": [
+    {
+      "Zona_Operasional": "Zona A - Puri Indah CBD",
+      "Lokasi_Spesifik": "Puri Indah Financial Tower Area",
+      "Jumlah_Driver": 8,
+      "Shift_Pagi_07_12": 6,
+      "Shift_Siang_12_17": 8,
+      "Shift_Sore_17_21": 4,
+      "Target_Cup_per_Driver_per_Hari": 200,
+      "Harga_Rata_rata_per_Cup": 12000,
+      "Radius_Operasional_km": 1.5,
+      "Karakteristik_Traffic": "Office Rush Hour Heavy",
+      "Total_Driver_Zona": 18
+    },
+    {
+      "Zona_Operasional": "Zona A - Puri Indah CBD",
+      "Lokasi_Spesifik": "Bluegreen Office Tower Complex",
+      "Jumlah_Driver": 6,
+      "Shift_Pagi_07_12": 5,
+      "Shift_Siang_12_17": 6,
+      "Shift_Sore_17_21": 3,
+      "Target_Cup_per_Driver_per_Hari": 200,
+      "Harga_Rata_rata_per_Cup": 12000,
+      "Radius_Operasional_km": 1.5,
+      "Karakteristik_Traffic": "Office Mixed Residential",
+      "Total_Driver_Zona": 18
+    },
+    {
+      "Zona_Operasional": "Zona A - Puri Indah CBD",
+      "Lokasi_Spesifik": "Ciputra International Tower",
+      "Jumlah_Driver": 4,
+      "Shift_Pagi_07_12": 3,
+      "Shift_Siang_12_17": 4,
+      "Shift_Sore_17_21": 2,
+      "Target_Cup_per_Driver_per_Hari": 200,
+      "Harga_Rata_rata_per_Cup": 12000,
+      "Radius_Operasional_km": 1.5,
+      "Karakteristik_Traffic": "Corporate Offices",
+      "Total_Driver_Zona": 18
+    },
+    {
+      "Zona_Operasional": "Zona B - Area Kampus & Pendidikan",
+      "Lokasi_Spesifik": "Universitas Mercu Buana (UMB) Meruya",
+      "Jumlah_Driver": 7,
+      "Shift_Pagi_07_12": 4,
+      "Shift_Siang_12_17": 7,
+      "Shift_Sore_17_21": 5,
+      "Target_Cup_per_Driver_per_Hari": 180,
+      "Harga_Rata_rata_per_Cup": 10000,
+      "Radius_Operasional_km": 2.0,
+      "Karakteristik_Traffic": "Student High Volume",
+      "Total_Driver_Zona": 12
+    },
+    {
+      "Zona_Operasional": "Zona B - Area Kampus & Pendidikan",
+      "Lokasi_Spesifik": "Universitas Esa Unggul (UEU) Kebon Jeruk",
+      "Jumlah_Driver": 5,
+      "Shift_Pagi_07_12": 3,
+      "Shift_Siang_12_17": 5,
+      "Shift_Sore_17_21": 4,
+      "Target_Cup_per_Driver_per_Hari": 180,
+      "Harga_Rata_rata_per_Cup": 10000,
+      "Radius_Operasional_km": 2.0,
+      "Karakteristik_Traffic": "Student Moderate Volume",
+      "Total_Driver_Zona": 12
+    },
+    {
+      "Zona_Operasional": "Zona C - Mall & Retail Centers",
+      "Lokasi_Spesifik": "Lippo Mall Puri @St. Moritz",
+      "Jumlah_Driver": 5,
+      "Shift_Pagi_07_12": 2,
+      "Shift_Siang_12_17": 5,
+      "Shift_Sore_17_21": 4,
+      "Target_Cup_per_Driver_per_Hari": 220,
+      "Harga_Rata_rata_per_Cup": 11000,
+      "Radius_Operasional_km": 1.0,
+      "Karakteristik_Traffic": "Weekend Peak High",
+      "Total_Driver_Zona": 8
+    },
+    {
+      "Zona_Operasional": "Zona C - Mall & Retail Centers",
+      "Lokasi_Spesifik": "Puri Indah Mall",
+      "Jumlah_Driver": 3,
+      "Shift_Pagi_07_12": 2,
+      "Shift_Siang_12_17": 3,
+      "Shift_Sore_17_21": 2,
+      "Target_Cup_per_Driver_per_Hari": 220,
+      "Harga_Rata_rata_per_Cup": 11000,
+      "Radius_Operasional_km": 1.0,
+      "Karakteristik_Traffic": "Family Mall Traffic",
+      "Total_Driver_Zona": 8
+    },
+    {
+      "Zona_Operasional": "Zona D - Residential Areas",
+      "Lokasi_Spesifik": "Kembangan Baru Estate",
+      "Jumlah_Driver": 5,
+      "Shift_Pagi_07_12": 3,
+      "Shift_Siang_12_17": 4,
+      "Shift_Sore_17_21": 3,
+      "Target_Cup_per_Driver_per_Hari": 160,
+      "Harga_Rata_rata_per_Cup": 10000,
+      "Radius_Operasional_km": 2.5,
+      "Karakteristik_Traffic": "Morning Residential",
+      "Total_Driver_Zona": 8
+    },
+    {
+      "Zona_Operasional": "Zona D - Residential Areas",
+      "Lokasi_Spesifik": "Puri Botanical & Permata Buana",
+      "Jumlah_Driver": 3,
+      "Shift_Pagi_07_12": 2,
+      "Shift_Siang_12_17": 3,
+      "Shift_Sore_17_21": 2,
+      "Target_Cup_per_Driver_per_Hari": 160,
+      "Harga_Rata_rata_per_Cup": 10000,
+      "Radius_Operasional_km": 2.5,
+      "Karakteristik_Traffic": "Suburban Residential",
+      "Total_Driver_Zona": 8
+    },
+    {
+      "Zona_Operasional": "Zona E - Transport Hubs & Transit",
+      "Lokasi_Spesifik": "Stasiun Taman Kota KRL",
+      "Jumlah_Driver": 3,
+      "Shift_Pagi_07_12": 2,
+      "Shift_Siang_12_17": 3,
+      "Shift_Sore_17_21": 2,
+      "Target_Cup_per_Driver_per_Hari": 150,
+      "Harga_Rata_rata_per_Cup": 9000,
+      "Radius_Operasional_km": 1.0,
+      "Karakteristik_Traffic": "Commuter Transit",
+      "Total_Driver_Zona": 4
+    },
+    {
+      "Zona_Operasional": "Zona E - Transport Hubs & Transit",
+      "Lokasi_Spesifik": "Halte Transjakarta Taman Kota",
+      "Jumlah_Driver": 1,
+      "Shift_Pagi_07_12": 1,
+      "Shift_Siang_12_17": 1,
+      "Shift_Sore_17_21": 0,
+      "Target_Cup_per_Driver_per_Hari": 150,
+      "Harga_Rata_rata_per_Cup": 9000,
+      "Radius_Operasional_km": 1.0,
+      "Karakteristik_Traffic": "Bus Stop Traffic",
+      "Total_Driver_Zona": 4
+    }
+  ],
+  "Proyeksi 30 Hari": [
+    {
+      "Tanggal": "2024-03-01",
+      "Hari": "Friday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 9436,
+      "Achievement_Rate_persen": 94.36,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 188.7,
+      "Revenue_Rp": 99078000,
+      "COGS_Rp": 29723400,
+      "Operational_Cost_Rp": 24769500,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 41085100,
+      "Accumulated_Profit_Rp": 41085100
+    },
+    {
+      "Tanggal": "2024-03-02",
+      "Hari": "Saturday",
+      "Is_Weekend": true,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 8510,
+      "Achievement_Rate_persen": 85.1,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 170.2,
+      "Revenue_Rp": 89355000,
+      "COGS_Rp": 26806500,
+      "Operational_Cost_Rp": 22338750,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 36709750,
+      "Accumulated_Profit_Rp": 77794850
+    },
+    {
+      "Tanggal": "2024-03-03",
+      "Hari": "Sunday",
+      "Is_Weekend": true,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 8259,
+      "Achievement_Rate_persen": 82.59,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 165.2,
+      "Revenue_Rp": 86719500,
+      "COGS_Rp": 26015850,
+      "Operational_Cost_Rp": 21679875,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 35523775,
+      "Accumulated_Profit_Rp": 113318625
+    },
+    {
+      "Tanggal": "2024-03-04",
+      "Hari": "Monday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 10296,
+      "Achievement_Rate_persen": 102.96,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 205.9,
+      "Revenue_Rp": 108108000,
+      "COGS_Rp": 32432400,
+      "Operational_Cost_Rp": 27027000,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 45148600,
+      "Accumulated_Profit_Rp": 158467225
+    },
+    {
+      "Tanggal": "2024-03-05",
+      "Hari": "Tuesday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 9245,
+      "Achievement_Rate_persen": 92.45,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 184.9,
+      "Revenue_Rp": 97072500,
+      "COGS_Rp": 29121750,
+      "Operational_Cost_Rp": 24268125,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 40182625,
+      "Accumulated_Profit_Rp": 198649850
+    },
+    {
+      "Tanggal": "2024-03-06",
+      "Hari": "Wednesday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 9334,
+      "Achievement_Rate_persen": 93.34,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 186.7,
+      "Revenue_Rp": 98007000,
+      "COGS_Rp": 29402100,
+      "Operational_Cost_Rp": 24501750,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 40603150,
+      "Accumulated_Profit_Rp": 239253000
+    },
+    {
+      "Tanggal": "2024-03-07",
+      "Hari": "Thursday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 9163,
+      "Achievement_Rate_persen": 91.63,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 183.3,
+      "Revenue_Rp": 96211500,
+      "COGS_Rp": 28863450,
+      "Operational_Cost_Rp": 24052875,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 39795175,
+      "Accumulated_Profit_Rp": 279048175
+    },
+    {
+      "Tanggal": "2024-03-08",
+      "Hari": "Friday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 11412,
+      "Achievement_Rate_persen": 114.12,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 228.2,
+      "Revenue_Rp": 119826000,
+      "COGS_Rp": 35947800,
+      "Operational_Cost_Rp": 29956500,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 50421700,
+      "Accumulated_Profit_Rp": 329469875
+    },
+    {
+      "Tanggal": "2024-03-09",
+      "Hari": "Saturday",
+      "Is_Weekend": true,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 8533,
+      "Achievement_Rate_persen": 85.33,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 170.7,
+      "Revenue_Rp": 89596500,
+      "COGS_Rp": 26878950,
+      "Operational_Cost_Rp": 22399125,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 36818425,
+      "Accumulated_Profit_Rp": 366288300
+    },
+    {
+      "Tanggal": "2024-03-10",
+      "Hari": "Sunday",
+      "Is_Weekend": true,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 8787,
+      "Achievement_Rate_persen": 87.87,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 175.7,
+      "Revenue_Rp": 92263500,
+      "COGS_Rp": 27679050,
+      "Operational_Cost_Rp": 23065875,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 38018575,
+      "Accumulated_Profit_Rp": 404306875
+    },
+    {
+      "Tanggal": "2024-03-11",
+      "Hari": "Monday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 9406,
+      "Achievement_Rate_persen": 94.06,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 188.1,
+      "Revenue_Rp": 98763000,
+      "COGS_Rp": 29628900,
+      "Operational_Cost_Rp": 24690750,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 40943350,
+      "Accumulated_Profit_Rp": 445250225
+    },
+    {
+      "Tanggal": "2024-03-12",
+      "Hari": "Tuesday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 12126,
+      "Achievement_Rate_persen": 121.26,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 242.5,
+      "Revenue_Rp": 127323000,
+      "COGS_Rp": 38196900,
+      "Operational_Cost_Rp": 31830750,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 53795350,
+      "Accumulated_Profit_Rp": 499045575
+    },
+    {
+      "Tanggal": "2024-03-13",
+      "Hari": "Wednesday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 11850,
+      "Achievement_Rate_persen": 118.5,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 237.0,
+      "Revenue_Rp": 124425000,
+      "COGS_Rp": 37327500,
+      "Operational_Cost_Rp": 31106250,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 52491250,
+      "Accumulated_Profit_Rp": 551536825
+    },
+    {
+      "Tanggal": "2024-03-14",
+      "Hari": "Thursday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 10204,
+      "Achievement_Rate_persen": 102.04,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 204.1,
+      "Revenue_Rp": 107142000,
+      "COGS_Rp": 32142600,
+      "Operational_Cost_Rp": 26785500,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 44713900,
+      "Accumulated_Profit_Rp": 596250725
+    },
+    {
+      "Tanggal": "2024-03-15",
+      "Hari": "Friday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 10208,
+      "Achievement_Rate_persen": 102.08,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 204.2,
+      "Revenue_Rp": 107184000,
+      "COGS_Rp": 32155200,
+      "Operational_Cost_Rp": 26796000,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 44732800,
+      "Accumulated_Profit_Rp": 640983525
+    },
+    {
+      "Tanggal": "2024-03-16",
+      "Hari": "Saturday",
+      "Is_Weekend": true,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 8366,
+      "Achievement_Rate_persen": 83.66,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 167.3,
+      "Revenue_Rp": 87843000,
+      "COGS_Rp": 26352900,
+      "Operational_Cost_Rp": 21960750,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 36029350,
+      "Accumulated_Profit_Rp": 677012875
+    },
+    {
+      "Tanggal": "2024-03-17",
+      "Hari": "Sunday",
+      "Is_Weekend": true,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 8649,
+      "Achievement_Rate_persen": 86.49,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 173.0,
+      "Revenue_Rp": 90814500,
+      "COGS_Rp": 27244350,
+      "Operational_Cost_Rp": 22703625,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 37366525,
+      "Accumulated_Profit_Rp": 714379400
+    },
+    {
+      "Tanggal": "2024-03-18",
+      "Hari": "Monday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 11479,
+      "Achievement_Rate_persen": 114.79,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 229.6,
+      "Revenue_Rp": 120529500,
+      "COGS_Rp": 36158850,
+      "Operational_Cost_Rp": 30132375,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 50738275,
+      "Accumulated_Profit_Rp": 765117675
+    },
+    {
+      "Tanggal": "2024-03-19",
+      "Hari": "Tuesday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 11304,
+      "Achievement_Rate_persen": 113.04,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 226.1,
+      "Revenue_Rp": 118692000,
+      "COGS_Rp": 35607600,
+      "Operational_Cost_Rp": 29673000,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 49911400,
+      "Accumulated_Profit_Rp": 815029075
+    },
+    {
+      "Tanggal": "2024-03-20",
+      "Hari": "Wednesday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 10981,
+      "Achievement_Rate_persen": 109.81,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 219.6,
+      "Revenue_Rp": 115300500,
+      "COGS_Rp": 34590150,
+      "Operational_Cost_Rp": 28825125,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 48385225,
+      "Accumulated_Profit_Rp": 863414300
+    },
+    {
+      "Tanggal": "2024-03-21",
+      "Hari": "Thursday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 12035,
+      "Achievement_Rate_persen": 120.35,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 240.7,
+      "Revenue_Rp": 126367500,
+      "COGS_Rp": 37910250,
+      "Operational_Cost_Rp": 31591875,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 53365375,
+      "Accumulated_Profit_Rp": 916779675
+    },
+    {
+      "Tanggal": "2024-03-22",
+      "Hari": "Friday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 10706,
+      "Achievement_Rate_persen": 107.06,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 214.1,
+      "Revenue_Rp": 112413000,
+      "COGS_Rp": 33723900,
+      "Operational_Cost_Rp": 28103250,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 47085850,
+      "Accumulated_Profit_Rp": 963865525
+    },
+    {
+      "Tanggal": "2024-03-23",
+      "Hari": "Saturday",
+      "Is_Weekend": true,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 9074,
+      "Achievement_Rate_persen": 90.74,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 181.5,
+      "Revenue_Rp": 95277000,
+      "COGS_Rp": 28583100,
+      "Operational_Cost_Rp": 23819250,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 39374650,
+      "Accumulated_Profit_Rp": 1003240175
+    },
+    {
+      "Tanggal": "2024-03-24",
+      "Hari": "Sunday",
+      "Is_Weekend": true,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 9285,
+      "Achievement_Rate_persen": 92.85,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 185.7,
+      "Revenue_Rp": 97492500,
+      "COGS_Rp": 29247750,
+      "Operational_Cost_Rp": 24373125,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 40371625,
+      "Accumulated_Profit_Rp": 1043611800
+    },
+    {
+      "Tanggal": "2024-03-25",
+      "Hari": "Monday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 11953,
+      "Achievement_Rate_persen": 119.53,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 239.1,
+      "Revenue_Rp": 125506500,
+      "COGS_Rp": 37651950,
+      "Operational_Cost_Rp": 31376625,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 52977925,
+      "Accumulated_Profit_Rp": 1096589725
+    },
+    {
+      "Tanggal": "2024-03-26",
+      "Hari": "Tuesday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 13078,
+      "Achievement_Rate_persen": 130.78,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 261.6,
+      "Revenue_Rp": 137319000,
+      "COGS_Rp": 41195700,
+      "Operational_Cost_Rp": 34329750,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 58293550,
+      "Accumulated_Profit_Rp": 1154883275
+    },
+    {
+      "Tanggal": "2024-03-27",
+      "Hari": "Wednesday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 11338,
+      "Achievement_Rate_persen": 113.38,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 226.8,
+      "Revenue_Rp": 119049000,
+      "COGS_Rp": 35714700,
+      "Operational_Cost_Rp": 29762250,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 50072050,
+      "Accumulated_Profit_Rp": 1204955325
+    },
+    {
+      "Tanggal": "2024-03-28",
+      "Hari": "Thursday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 12427,
+      "Achievement_Rate_persen": 124.27,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 248.5,
+      "Revenue_Rp": 130483500,
+      "COGS_Rp": 39145050,
+      "Operational_Cost_Rp": 32620875,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 55217575,
+      "Accumulated_Profit_Rp": 1260172900
+    },
+    {
+      "Tanggal": "2024-03-29",
+      "Hari": "Friday",
+      "Is_Weekend": false,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 12775,
+      "Achievement_Rate_persen": 127.75,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 255.5,
+      "Revenue_Rp": 134137500,
+      "COGS_Rp": 40241250,
+      "Operational_Cost_Rp": 33534375,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 56861875,
+      "Accumulated_Profit_Rp": 1317034775
+    },
+    {
+      "Tanggal": "2024-03-30",
+      "Hari": "Saturday",
+      "Is_Weekend": true,
+      "Target_Cup_Total": 10000,
+      "Actual_Cup_Total": 9119,
+      "Achievement_Rate_persen": 91.19,
+      "Active_Driver": 50,
+      "Cup_per_Driver_Avg": 182.4,
+      "Revenue_Rp": 95749500,
+      "COGS_Rp": 28724850,
+      "Operational_Cost_Rp": 23937375,
+      "Fixed_Cost_Rp": 3500000,
+      "Net_Profit_Rp": 39587275,
+      "Accumulated_Profit_Rp": 1356622050
+    }
+  ],
+  "Portfolio Produk": [
+    {
+      "SKU_Code": "MKK001",
+      "Nama_Produk": "Makkanya Bitterlove",
+      "Deskripsi": "Double Shot Aren Latte - Kopi kuat dengan gula aren",
+      "Kategori": "Coffee",
+      "Sub_Kategori": "Signature Latte",
+      "Harga_Jual_Rp": 12000,
+      "HPP_per_Cup_Rp": 4500,
+      "Margin_persen": 62.5,
+      "Estimasi_Daily_Sales_persen": 25,
+      "Target_Priority": 1,
+      "Waktu_Preparasi_menit": 3,
+      "Ketersediaan": "Tersedia",
+      "Keuntungan_per_Cup": 7500,
+      "Bahan_Utama": "Espresso Double Shot, Gula Aren, Susu UHT",
+      "Unique_Selling_Point": "Double shot espresso dengan rasa kopi yang kuat dan gula aren asli"
+    },
+    {
+      "SKU_Code": "MKK002",
+      "Nama_Produk": "Makkanya Dreamy Creamy",
+      "Deskripsi": "Aren Latte - Kopi creamy dengan gula aren",
+      "Kategori": "Coffee",
+      "Sub_Kategori": "Signature Latte",
+      "Harga_Jual_Rp": 10000,
+      "HPP_per_Cup_Rp": 3800,
+      "Margin_persen": 62.0,
+      "Estimasi_Daily_Sales_persen": 30,
+      "Target_Priority": 1,
+      "Waktu_Preparasi_menit": 2,
+      "Ketersediaan": "Tersedia",
+      "Keuntungan_per_Cup": 6200,
+      "Bahan_Utama": "Espresso Single Shot, Gula Aren, Susu UHT",
+      "Unique_Selling_Point": "Best seller - creamy dan manis pas"
+    },
+    {
+      "SKU_Code": "MKK003",
+      "Nama_Produk": "Makkanya Americano",
+      "Deskripsi": "Black Coffee - Kopi hitam murni",
+      "Kategori": "Coffee",
+      "Sub_Kategori": "Black Coffee",
+      "Harga_Jual_Rp": 8000,
+      "HPP_per_Cup_Rp": 2200,
+      "Margin_persen": 72.5,
+      "Estimasi_Daily_Sales_persen": 15,
+      "Target_Priority": 2,
+      "Waktu_Preparasi_menit": 1,
+      "Ketersediaan": "Tersedia",
+      "Keuntungan_per_Cup": 5800,
+      "Bahan_Utama": "Espresso Double Shot, Air Mineral",
+      "Unique_Selling_Point": "Margin tertinggi, preparasi cepat"
+    },
+    {
+      "SKU_Code": "MKK004",
+      "Nama_Produk": "Makkanya Creamy Scotch",
+      "Deskripsi": "Butterscotch Latte - Kopi dengan rasa butterscotch",
+      "Kategori": "Coffee",
+      "Sub_Kategori": "Flavored Latte",
+      "Harga_Jual_Rp": 12000,
+      "HPP_per_Cup_Rp": 4800,
+      "Margin_persen": 60.0,
+      "Estimasi_Daily_Sales_persen": 10,
+      "Target_Priority": 2,
+      "Waktu_Preparasi_menit": 3,
+      "Ketersediaan": "Tersedia",
+      "Keuntungan_per_Cup": 7200,
+      "Bahan_Utama": "Espresso, Butterscotch Syrup, Susu UHT",
+      "Unique_Selling_Point": "Rasa butterscotch yang unik dan creamy"
+    },
+    {
+      "SKU_Code": "MKK005",
+      "Nama_Produk": "Makkanya Creme de Pista",
+      "Deskripsi": "Pistachio Latte - Kopi dengan rasa pistachio",
+      "Kategori": "Coffee",
+      "Sub_Kategori": "Flavored Latte",
+      "Harga_Jual_Rp": 12000,
+      "HPP_per_Cup_Rp": 5000,
+      "Margin_persen": 58.3,
+      "Estimasi_Daily_Sales_persen": 8,
+      "Target_Priority": 3,
+      "Waktu_Preparasi_menit": 3,
+      "Ketersediaan": "Tersedia",
+      "Keuntungan_per_Cup": 7000,
+      "Bahan_Utama": "Espresso, Pistachio Syrup, Susu UHT",
+      "Unique_Selling_Point": "Varian premium dengan rasa pistachio"
+    },
+    {
+      "SKU_Code": "MKK006",
+      "Nama_Produk": "Makkanya Dreamy Matcha",
+      "Deskripsi": "Matcha Milk - Minuman matcha dengan susu",
+      "Kategori": "Non-Coffee",
+      "Sub_Kategori": "Tea Based",
+      "Harga_Jual_Rp": 12000,
+      "HPP_per_Cup_Rp": 5200,
+      "Margin_persen": 56.7,
+      "Estimasi_Daily_Sales_persen": 5,
+      "Target_Priority": 2,
+      "Waktu_Preparasi_menit": 3,
+      "Ketersediaan": "Tersedia",
+      "Keuntungan_per_Cup": 6800,
+      "Bahan_Utama": "Matcha Powder, Susu UHT, Gula",
+      "Unique_Selling_Point": "Untuk non-coffee drinker, trend matcha"
+    },
+    {
+      "SKU_Code": "MKK007",
+      "Nama_Produk": "Makkanya Love Choco",
+      "Deskripsi": "Chocolate Milk - Minuman coklat creamy",
+      "Kategori": "Non-Coffee",
+      "Sub_Kategori": "Chocolate",
+      "Harga_Jual_Rp": 12000,
+      "HPP_per_Cup_Rp": 4800,
+      "Margin_persen": 60.0,
+      "Estimasi_Daily_Sales_persen": 4,
+      "Target_Priority": 3,
+      "Waktu_Preparasi_menit": 2,
+      "Ketersediaan": "Tersedia",
+      "Keuntungan_per_Cup": 7200,
+      "Bahan_Utama": "Chocolate Powder, Susu UHT",
+      "Unique_Selling_Point": "Favorit anak-anak dan non-coffee"
+    },
+    {
+      "SKU_Code": "MKK008",
+      "Nama_Produk": "Makkanya Creamy Berry",
+      "Deskripsi": "Strawberry Milk - Minuman stroberi creamy",
+      "Kategori": "Non-Coffee",
+      "Sub_Kategori": "Fruit Based",
+      "Harga_Jual_Rp": 12000,
+      "HPP_per_Cup_Rp": 5000,
+      "Margin_persen": 58.3,
+      "Estimasi_Daily_Sales_persen": 3,
+      "Target_Priority": 3,
+      "Waktu_Preparasi_menit": 2,
+      "Ketersediaan": "Tersedia",
+      "Keuntungan_per_Cup": 7000,
+      "Bahan_Utama": "Strawberry Syrup, Susu UHT",
+      "Unique_Selling_Point": "Rasa stroberi yang segar dan creamy"
+    }
+  ],
+  "Analisis Kompetitor": [
+    {
+      "Brand": "Kopi Jago",
+      "Model_Bisnis": "Cafe-on-Wheels (Gerobak Listrik)",
+      "Harga_Kopi_Susu_Rp": 8000,
+      "Jumlah_Outlet_Kembangan": 8,
+      "Lokasi_Presence": "Area perkantoran, stasiun, perumahan",
+      "Target_Segment": "Karyawan, komuter, mahasiswa",
+      "Strength": "Harga termurah (8K), 1500+ gerobak nasional, brand awareness tinggi",
+      "Weakness": "Kualitas kopi standar, tidak ada varian premium, limited menu",
+      "Threat_Level": "High",
+      "Menu_Utama": "Kopi Susu Jago (8K), Americano (8K), Salted Caramel Latte (10K), Matcha Latte (12K)",
+      "Keunggulan": "Harga paling murah, akses mudah, jaringan luas"
+    },
+    {
+      "Brand": "Haus!",
+      "Model_Bisnis": "Outlet Store + Mobile",
+      "Harga_Kopi_Susu_Rp": 11000,
+      "Jumlah_Outlet_Kembangan": 3,
+      "Lokasi_Presence": "Mall, area komersial, pinggir jalan",
+      "Target_Segment": "Anak muda, pelajar, keluarga",
+      "Strength": "Varian menu sangat banyak (60+), brand awareness kuat, harga terjangkau",
+      "Weakness": "Fokus bukan kopi specialist, lebih ke minuman manis, kualitas kopi biasa",
+      "Threat_Level": "Medium",
+      "Menu_Utama": "Es Kopasus (9-11K), Kopi Susu Gula Aren (14K), Thai Tea (6-9K), Choco Series (12-15K)",
+      "Keunggulan": "Varian menu terbanyak, harga fleksibel, outlet nyaman"
+    },
+    {
+      "Brand": "Kopi Sejuta Jiwa",
+      "Model_Bisnis": "Cafe-on-Wheels (Sepeda Listrik)",
+      "Harga_Kopi_Susu_Rp": 8000,
+      "Jumlah_Outlet_Kembangan": 5,
+      "Lokasi_Presence": "Area perkantoran, stasiun, kampus",
+      "Target_Segment": "Karyawan, mahasiswa, komuter",
+      "Strength": "Backing dari Janji Jiwa Group, harga kompetitif, brand trust",
+      "Weakness": "Menu terbatas, kualitas di bawah Janji Jiwa proper, masih baru",
+      "Threat_Level": "High",
+      "Menu_Utama": "Kopi Susu Sejuta Jiwa (8K), Americano (8K), Butterscotch (10K), Chocolate (10K)",
+      "Keunggulan": "Brand Janji Jiwa, harga murah, distribusi luas"
+    },
+    {
+      "Brand": "Rindumu Coffee",
+      "Model_Bisnis": "Cafe-on-Wheels (Gerobak)",
+      "Harga_Kopi_Susu_Rp": 8000,
+      "Jumlah_Outlet_Kembangan": 3,
+      "Lokasi_Presence": "Area perkantoran, stasiun, perumahan",
+      "Target_Segment": "Karyawan, anak muda, komuter",
+      "Strength": "Harga murah, rasa enak, varian menarik (Coconut Latte)",
+      "Weakness": "Brand awareness masih rendah, jaringan terbatas, marketing minim",
+      "Threat_Level": "Low-Medium",
+      "Menu_Utama": "Brown Sugar Latte (8K), Coconut Latte (10K), Chocolate (8K), Earl Grey Milk Tea (10K)",
+      "Keunggulan": "Rasa kompetitif, harga murah, varian unik"
+    },
+    {
+      "Brand": "Kopi Kenangan",
+      "Model_Bisnis": "Outlet Store",
+      "Harga_Kopi_Susu_Rp": 18000,
+      "Jumlah_Outlet_Kembangan": 2,
+      "Lokasi_Presence": "Mall, area komersial premium",
+      "Target_Segment": "Middle class, profesional muda, keluarga",
+      "Strength": "Kualitas kopi terbaik, brand premium, varian menu kreatif, outlet nyaman",
+      "Weakness": "Harga mahal (18K+), tidak mobile, target market terbatas",
+      "Threat_Level": "Low",
+      "Menu_Utama": "Kopi Kenangan Mantan (18K), Avocado Coffee (22K), Cookie Cream Latte (22K)",
+      "Keunggulan": "Kualitas premium, experience terbaik, brand value tinggi"
+    }
+  ],
+  "Customer Segmentation": [
+    {
+      "Nama_Segment": "Office Workers",
+      "Estimasi_Populasi": 22500,
+      "Lifetime_Value_3bulan": 1350000,
+      "Avg_Transaction_Value_Rp": 15000,
+      "Purchase_Frequency_per_Minggu": 5,
+      "Karakteristik_Utama": "Karyawan Puri Indah CBD, income tinggi, routine buyer",
+      "Pain_Points": "Waktu terbatas, butuh kopi cepat & berkualitas",
+      "Preferred_Channel": "Drive-thru, Mobile Order",
+      "Peak_Days": "Senin-Jumat"
+    },
+    {
+      "Nama_Segment": "Mall Visitors",
+      "Estimasi_Populasi": 14000,
+      "Lifetime_Value_3bulan": 840000,
+      "Avg_Transaction_Value_Rp": 12000,
+      "Purchase_Frequency_per_Minggu": 2,
+      "Karakteristik_Utama": "Pengunjung mall, family & friends, weekend shoppers",
+      "Pain_Points": "Harga di mall mahal, antrian panjang",
+      "Preferred_Channel": "In-store, Takeaway",
+      "Peak_Days": "Sabtu-Minggu"
+    },
+    {
+      "Nama_Segment": "University Students",
+      "Estimasi_Populasi": 15400,
+      "Lifetime_Value_3bulan": 450000,
+      "Avg_Transaction_Value_Rp": 10000,
+      "Purchase_Frequency_per_Minggu": 3,
+      "Karakteristik_Utama": "Mahasiswa UMB & sekitar, price sensitive, social buyers",
+      "Pain_Points": "Budget terbatas, cari promo & diskon",
+      "Preferred_Channel": "Mobile Order, In-store",
+      "Peak_Days": "Senin-Jumat"
+    },
+    {
+      "Nama_Segment": "Commuters",
+      "Estimasi_Populasi": 11200,
+      "Lifetime_Value_3bulan": 630000,
+      "Avg_Transaction_Value_Rp": 12000,
+      "Purchase_Frequency_per_Minggu": 4,
+      "Karakteristik_Utama": "Penumpang KRL, grab & go, morning rush",
+      "Pain_Points": "Waktu sangat terbatas, butuh cepat",
+      "Preferred_Channel": "Drive-thru, Takeaway",
+      "Peak_Days": "Senin-Jumat"
+    },
+    {
+      "Nama_Segment": "Residential",
+      "Estimasi_Populasi": 25500,
+      "Lifetime_Value_3bulan": 720000,
+      "Avg_Transaction_Value_Rp": 14000,
+      "Purchase_Frequency_per_Minggu": 2,
+      "Karakteristik_Utama": "Warga Kembangan, neighborhood loyalty, quality focused",
+      "Pain_Points": "Pilihan kopi terbatas di area residensial",
+      "Preferred_Channel": "In-store, Delivery",
+      "Peak_Days": "Semua hari"
+    },
+    {
+      "Nama_Segment": "Healthcare Workers",
+      "Estimasi_Populasi": 5600,
+      "Lifetime_Value_3bulan": 1080000,
+      "Avg_Transaction_Value_Rp": 18000,
+      "Purchase_Frequency_per_Minggu": 4,
+      "Karakteristik_Utama": "Nakes RS Pondok Indah, shift workers, need caffeine",
+      "Pain_Points": "Shift kerja tidak teratur, butuh kopi kuat",
+      "Preferred_Channel": "Mobile Order, Drive-thru",
+      "Peak_Days": "Semua hari"
+    }
+  ],
+  "Investment Breakdown": [
+    {
+      "Kategori": "Motor Listrik + Gerobak",
+      "Item": "Motor Listrik (50 unit)",
+      "Jumlah_Unit": 50,
+      "Harga_per_Unit_Rp": 12000000,
+      "Total_Biaya_Rp": 600000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Fleet"
+    },
+    {
+      "Kategori": "Motor Listrik + Gerobak",
+      "Item": "Gerobak Mobile (50 unit)",
+      "Jumlah_Unit": 50,
+      "Harga_per_Unit_Rp": 3500000,
+      "Total_Biaya_Rp": 175000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Fleet"
+    },
+    {
+      "Kategori": "Motor Listrik + Gerobak",
+      "Item": "Branding & Wrapping",
+      "Jumlah_Unit": 50,
+      "Harga_per_Unit_Rp": 1500000,
+      "Total_Biaya_Rp": 75000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Fleet"
+    },
+    {
+      "Kategori": "Equipment",
+      "Item": "Espresso Machine (Industrial)",
+      "Jumlah_Unit": 2,
+      "Harga_per_Unit_Rp": 25000000,
+      "Total_Biaya_Rp": 50000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Equipment"
+    },
+    {
+      "Kategori": "Equipment",
+      "Item": "Coffee Grinder (50 unit)",
+      "Jumlah_Unit": 50,
+      "Harga_per_Unit_Rp": 1200000,
+      "Total_Biaya_Rp": 60000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Equipment"
+    },
+    {
+      "Kategori": "Equipment",
+      "Item": "Cooling Box (50 unit)",
+      "Jumlah_Unit": 50,
+      "Harga_per_Unit_Rp": 800000,
+      "Total_Biaya_Rp": 40000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Equipment"
+    },
+    {
+      "Kategori": "Equipment",
+      "Item": "POS Device (50 unit)",
+      "Jumlah_Unit": 50,
+      "Harga_per_Unit_Rp": 1500000,
+      "Total_Biaya_Rp": 75000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Equipment"
+    },
+    {
+      "Kategori": "Technology",
+      "Item": "Mobile App Development",
+      "Jumlah_Unit": 1,
+      "Harga_per_Unit_Rp": 100000000,
+      "Total_Biaya_Rp": 100000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Technology"
+    },
+    {
+      "Kategori": "Technology",
+      "Item": "Backend System & Cloud",
+      "Jumlah_Unit": 1,
+      "Harga_per_Unit_Rp": 50000000,
+      "Total_Biaya_Rp": 50000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Technology"
+    },
+    {
+      "Kategori": "Technology",
+      "Item": "GPS Tracking System",
+      "Jumlah_Unit": 1,
+      "Harga_per_Unit_Rp": 30000000,
+      "Total_Biaya_Rp": 30000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Technology"
+    },
+    {
+      "Kategori": "Setup Hub",
+      "Item": "Renovasi Ruangan",
+      "Jumlah_Unit": 1,
+      "Harga_per_Unit_Rp": 100000000,
+      "Total_Biaya_Rp": 100000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Hub Setup"
+    },
+    {
+      "Kategori": "Setup Hub",
+      "Item": "Charging Station",
+      "Jumlah_Unit": 1,
+      "Harga_per_Unit_Rp": 50000000,
+      "Total_Biaya_Rp": 50000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Hub Setup"
+    },
+    {
+      "Kategori": "Setup Hub",
+      "Item": "Storage & Shelving",
+      "Jumlah_Unit": 1,
+      "Harga_per_Unit_Rp": 20000000,
+      "Total_Biaya_Rp": 20000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Hub Setup"
+    },
+    {
+      "Kategori": "Setup Hub",
+      "Item": "Furniture",
+      "Jumlah_Unit": 1,
+      "Harga_per_Unit_Rp": 30000000,
+      "Total_Biaya_Rp": 30000000,
+      "Tipe_Biaya": "CAPEX",
+      "Kategori_Utama": "Hub Setup"
+    },
+    {
+      "Kategori": "Inventory",
+      "Item": "Bahan Baku (1 bulan)",
+      "Jumlah_Unit": 1,
+      "Harga_per_Unit_Rp": 100000000,
+      "Total_Biaya_Rp": 100000000,
+      "Tipe_Biaya": "Initial Inventory",
+      "Kategori_Utama": "Inventory"
+    },
+    {
+      "Kategori": "Inventory",
+      "Item": "Packaging & Cups",
+      "Jumlah_Unit": 1,
+      "Harga_per_Unit_Rp": 30000000,
+      "Total_Biaya_Rp": 30000000,
+      "Tipe_Biaya": "Initial Inventory",
+      "Kategori_Utama": "Inventory"
+    },
+    {
+      "Kategori": "Marketing",
+      "Item": "Digital Marketing",
+      "Jumlah_Unit": 1,
+      "Harga_per_Unit_Rp": 50000000,
+      "Total_Biaya_Rp": 50000000,
+      "Tipe_Biaya": "Marketing Launch",
+      "Kategori_Utama": "Marketing"
+    },
+    {
+      "Kategori": "Marketing",
+      "Item": "Opening Event & Promosi",
+      "Jumlah_Unit": 1,
+      "Harga_per_Unit_Rp": 50000000,
+      "Total_Biaya_Rp": 50000000,
+      "Tipe_Biaya": "Marketing Launch",
+      "Kategori_Utama": "Marketing"
+    },
+    {
+      "Kategori": "Licensing & Legal",
+      "Item": "Izin Usaha & TDP",
+      "Jumlah_Unit": 1,
+      "Harga_per_Unit_Rp": 15000000,
+      "Total_Biaya_Rp": 15000000,
+      "Tipe_Biaya": "Legal",
+      "Kategori_Utama": "Legal"
+    },
+    {
+      "Kategori": "Licensing & Legal",
+      "Item": "Sertifikasi Halal",
+      "Jumlah_Unit": 1,
+      "Harga_per_Unit_Rp": 10000000,
+      "Total_Biaya_Rp": 10000000,
+      "Tipe_Biaya": "Legal",
+      "Kategori_Utama": "Legal"
+    },
+    {
+      "Kategori": "Working Capital",
+      "Item": "Cash Reserve (3 bulan operational)",
+      "Jumlah_Unit": 3,
+      "Harga_per_Unit_Rp": 100000000,
+      "Total_Biaya_Rp": 300000000,
+      "Tipe_Biaya": "Working Capital",
+      "Kategori_Utama": "Working Capital"
+    }
+  ],
+  "Operasional per Shift": [
+    {
+      "Hari": "Senin",
+      "Shift": "Pagi (07:00-12:00)",
+      "Active_Driver": 35,
+      "Cup_per_Driver_Avg": 37,
+      "Total_Cup_Shift": 1295,
+      "Avg_Price_per_Cup": 11122,
+      "Revenue_Shift_Rp": 14402990,
+      "Operational_Cost_Rp": 3600747,
+      "COGS_Rp": 4320897
+    },
+    {
+      "Hari": "Senin",
+      "Shift": "Siang (12:00-17:00)",
+      "Active_Driver": 42,
+      "Cup_per_Driver_Avg": 46,
+      "Total_Cup_Shift": 1932,
+      "Avg_Price_per_Cup": 11041,
+      "Revenue_Shift_Rp": 21331212,
+      "Operational_Cost_Rp": 5332803,
+      "COGS_Rp": 6399363
+    },
+    {
+      "Hari": "Senin",
+      "Shift": "Sore (17:00-21:00)",
+      "Active_Driver": 28,
+      "Cup_per_Driver_Avg": 33,
+      "Total_Cup_Shift": 924,
+      "Avg_Price_per_Cup": 10106,
+      "Revenue_Shift_Rp": 9337944,
+      "Operational_Cost_Rp": 2334486,
+      "COGS_Rp": 2801383
+    },
+    {
+      "Hari": "Selasa",
+      "Shift": "Pagi (07:00-12:00)",
+      "Active_Driver": 35,
+      "Cup_per_Driver_Avg": 44,
+      "Total_Cup_Shift": 1540,
+      "Avg_Price_per_Cup": 11238,
+      "Revenue_Shift_Rp": 17306520,
+      "Operational_Cost_Rp": 4326630,
+      "COGS_Rp": 5191956
+    },
+    {
+      "Hari": "Selasa",
+      "Shift": "Siang (12:00-17:00)",
+      "Active_Driver": 42,
+      "Cup_per_Driver_Avg": 41,
+      "Total_Cup_Shift": 1722,
+      "Avg_Price_per_Cup": 10096,
+      "Revenue_Shift_Rp": 17385312,
+      "Operational_Cost_Rp": 4346328,
+      "COGS_Rp": 5215593
+    },
+    {
+      "Hari": "Selasa",
+      "Shift": "Sore (17:00-21:00)",
+      "Active_Driver": 28,
+      "Cup_per_Driver_Avg": 31,
+      "Total_Cup_Shift": 868,
+      "Avg_Price_per_Cup": 10638,
+      "Revenue_Shift_Rp": 9233784,
+      "Operational_Cost_Rp": 2308446,
+      "COGS_Rp": 2770135
+    },
+    {
+      "Hari": "Rabu",
+      "Shift": "Pagi (07:00-12:00)",
+      "Active_Driver": 35,
+      "Cup_per_Driver_Avg": 44,
+      "Total_Cup_Shift": 1540,
+      "Avg_Price_per_Cup": 11568,
+      "Revenue_Shift_Rp": 17814720,
+      "Operational_Cost_Rp": 4453680,
+      "COGS_Rp": 5344416
+    },
+    {
+      "Hari": "Rabu",
+      "Shift": "Siang (12:00-17:00)",
+      "Active_Driver": 42,
+      "Cup_per_Driver_Avg": 40,
+      "Total_Cup_Shift": 1680,
+      "Avg_Price_per_Cup": 10111,
+      "Revenue_Shift_Rp": 16986480,
+      "Operational_Cost_Rp": 4246620,
+      "COGS_Rp": 5095944
+    },
+    {
+      "Hari": "Rabu",
+      "Shift": "Sore (17:00-21:00)",
+      "Active_Driver": 28,
+      "Cup_per_Driver_Avg": 39,
+      "Total_Cup_Shift": 1092,
+      "Avg_Price_per_Cup": 11363,
+      "Revenue_Shift_Rp": 12408396,
+      "Operational_Cost_Rp": 3102099,
+      "COGS_Rp": 3722518
+    },
+    {
+      "Hari": "Kamis",
+      "Shift": "Pagi (07:00-12:00)",
+      "Active_Driver": 35,
+      "Cup_per_Driver_Avg": 39,
+      "Total_Cup_Shift": 1365,
+      "Avg_Price_per_Cup": 10608,
+      "Revenue_Shift_Rp": 14479920,
+      "Operational_Cost_Rp": 3619980,
+      "COGS_Rp": 4343976
+    },
+    {
+      "Hari": "Kamis",
+      "Shift": "Siang (12:00-17:00)",
+      "Active_Driver": 42,
+      "Cup_per_Driver_Avg": 40,
+      "Total_Cup_Shift": 1680,
+      "Avg_Price_per_Cup": 11092,
+      "Revenue_Shift_Rp": 18634560,
+      "Operational_Cost_Rp": 4658640,
+      "COGS_Rp": 5590368
+    },
+    {
+      "Hari": "Kamis",
+      "Shift": "Sore (17:00-21:00)",
+      "Active_Driver": 28,
+      "Cup_per_Driver_Avg": 31,
+      "Total_Cup_Shift": 868,
+      "Avg_Price_per_Cup": 11847,
+      "Revenue_Shift_Rp": 10283196,
+      "Operational_Cost_Rp": 2570799,
+      "COGS_Rp": 3084958
+    },
+    {
+      "Hari": "Jumat",
+      "Shift": "Pagi (07:00-12:00)",
+      "Active_Driver": 35,
+      "Cup_per_Driver_Avg": 38,
+      "Total_Cup_Shift": 1330,
+      "Avg_Price_per_Cup": 10002,
+      "Revenue_Shift_Rp": 13302660,
+      "Operational_Cost_Rp": 3325665,
+      "COGS_Rp": 3990798
+    },
+    {
+      "Hari": "Jumat",
+      "Shift": "Siang (12:00-17:00)",
+      "Active_Driver": 42,
+      "Cup_per_Driver_Avg": 44,
+      "Total_Cup_Shift": 1848,
+      "Avg_Price_per_Cup": 10039,
+      "Revenue_Shift_Rp": 18552072,
+      "Operational_Cost_Rp": 4638018,
+      "COGS_Rp": 5565621
+    },
+    {
+      "Hari": "Jumat",
+      "Shift": "Sore (17:00-21:00)",
+      "Active_Driver": 28,
+      "Cup_per_Driver_Avg": 32,
+      "Total_Cup_Shift": 896,
+      "Avg_Price_per_Cup": 10596,
+      "Revenue_Shift_Rp": 9494016,
+      "Operational_Cost_Rp": 2373504,
+      "COGS_Rp": 2848204
+    },
+    {
+      "Hari": "Sabtu",
+      "Shift": "Pagi (07:00-12:00)",
+      "Active_Driver": 30,
+      "Cup_per_Driver_Avg": 43,
+      "Total_Cup_Shift": 1290,
+      "Avg_Price_per_Cup": 11981,
+      "Revenue_Shift_Rp": 15455490,
+      "Operational_Cost_Rp": 3863872,
+      "COGS_Rp": 4636647
+    },
+    {
+      "Hari": "Sabtu",
+      "Shift": "Siang (12:00-17:00)",
+      "Active_Driver": 40,
+      "Cup_per_Driver_Avg": 40,
+      "Total_Cup_Shift": 1600,
+      "Avg_Price_per_Cup": 11159,
+      "Revenue_Shift_Rp": 17854400,
+      "Operational_Cost_Rp": 4463600,
+      "COGS_Rp": 5356320
+    },
+    {
+      "Hari": "Sabtu",
+      "Shift": "Sore (17:00-21:00)",
+      "Active_Driver": 20,
+      "Cup_per_Driver_Avg": 39,
+      "Total_Cup_Shift": 780,
+      "Avg_Price_per_Cup": 10099,
+      "Revenue_Shift_Rp": 7877220,
+      "Operational_Cost_Rp": 1969305,
+      "COGS_Rp": 2363166
+    },
+    {
+      "Hari": "Minggu",
+      "Shift": "Pagi (07:00-12:00)",
+      "Active_Driver": 30,
+      "Cup_per_Driver_Avg": 39,
+      "Total_Cup_Shift": 1170,
+      "Avg_Price_per_Cup": 11382,
+      "Revenue_Shift_Rp": 13316940,
+      "Operational_Cost_Rp": 3329235,
+      "COGS_Rp": 3995082
+    },
+    {
+      "Hari": "Minggu",
+      "Shift": "Siang (12:00-17:00)",
+      "Active_Driver": 40,
+      "Cup_per_Driver_Avg": 41,
+      "Total_Cup_Shift": 1640,
+      "Avg_Price_per_Cup": 10213,
+      "Revenue_Shift_Rp": 16749320,
+      "Operational_Cost_Rp": 4187330,
+      "COGS_Rp": 5024796
+    },
+    {
+      "Hari": "Minggu",
+      "Shift": "Sore (17:00-21:00)",
+      "Active_Driver": 20,
+      "Cup_per_Driver_Avg": 36,
+      "Total_Cup_Shift": 720,
+      "Avg_Price_per_Cup": 10862,
+      "Revenue_Shift_Rp": 7820640,
+      "Operational_Cost_Rp": 1955160,
+      "COGS_Rp": 2346192
+    }
+  ],
+  "Heatmap Demand 24 Jam": [
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 0,
+      "Jam_Label": "00:00",
+      "Demand_Index": 5,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 1,
+      "Jam_Label": "01:00",
+      "Demand_Index": 3,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 2,
+      "Jam_Label": "02:00",
+      "Demand_Index": 1,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 3,
+      "Jam_Label": "03:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 4,
+      "Jam_Label": "04:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 5,
+      "Jam_Label": "05:00",
+      "Demand_Index": 2,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 6,
+      "Jam_Label": "06:00",
+      "Demand_Index": 8,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 7,
+      "Jam_Label": "07:00",
+      "Demand_Index": 25,
+      "Recommended_Driver": 5,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 8,
+      "Jam_Label": "08:00",
+      "Demand_Index": 45,
+      "Recommended_Driver": 9,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 9,
+      "Jam_Label": "09:00",
+      "Demand_Index": 35,
+      "Recommended_Driver": 7,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 10,
+      "Jam_Label": "10:00",
+      "Demand_Index": 25,
+      "Recommended_Driver": 5,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 11,
+      "Jam_Label": "11:00",
+      "Demand_Index": 30,
+      "Recommended_Driver": 6,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 12,
+      "Jam_Label": "12:00",
+      "Demand_Index": 50,
+      "Recommended_Driver": 10,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 13,
+      "Jam_Label": "13:00",
+      "Demand_Index": 35,
+      "Recommended_Driver": 7,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 14,
+      "Jam_Label": "14:00",
+      "Demand_Index": 30,
+      "Recommended_Driver": 6,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 15,
+      "Jam_Label": "15:00",
+      "Demand_Index": 35,
+      "Recommended_Driver": 7,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 16,
+      "Jam_Label": "16:00",
+      "Demand_Index": 40,
+      "Recommended_Driver": 8,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 17,
+      "Jam_Label": "17:00",
+      "Demand_Index": 45,
+      "Recommended_Driver": 9,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 18,
+      "Jam_Label": "18:00",
+      "Demand_Index": 35,
+      "Recommended_Driver": 7,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 19,
+      "Jam_Label": "19:00",
+      "Demand_Index": 20,
+      "Recommended_Driver": 4,
+      "Keterangan": "Medium"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 20,
+      "Jam_Label": "20:00",
+      "Demand_Index": 10,
+      "Recommended_Driver": 2,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 21,
+      "Jam_Label": "21:00",
+      "Demand_Index": 8,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 22,
+      "Jam_Label": "22:00",
+      "Demand_Index": 6,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona A - Puri Indah CBD",
+      "Jam": 23,
+      "Jam_Label": "23:00",
+      "Demand_Index": 5,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 0,
+      "Jam_Label": "00:00",
+      "Demand_Index": 2,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 1,
+      "Jam_Label": "01:00",
+      "Demand_Index": 1,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 2,
+      "Jam_Label": "02:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 3,
+      "Jam_Label": "03:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 4,
+      "Jam_Label": "04:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 5,
+      "Jam_Label": "05:00",
+      "Demand_Index": 1,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 6,
+      "Jam_Label": "06:00",
+      "Demand_Index": 5,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 7,
+      "Jam_Label": "07:00",
+      "Demand_Index": 15,
+      "Recommended_Driver": 3,
+      "Keterangan": "Medium"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 8,
+      "Jam_Label": "08:00",
+      "Demand_Index": 35,
+      "Recommended_Driver": 7,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 9,
+      "Jam_Label": "09:00",
+      "Demand_Index": 40,
+      "Recommended_Driver": 8,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 10,
+      "Jam_Label": "10:00",
+      "Demand_Index": 35,
+      "Recommended_Driver": 7,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 11,
+      "Jam_Label": "11:00",
+      "Demand_Index": 30,
+      "Recommended_Driver": 6,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 12,
+      "Jam_Label": "12:00",
+      "Demand_Index": 45,
+      "Recommended_Driver": 9,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 13,
+      "Jam_Label": "13:00",
+      "Demand_Index": 40,
+      "Recommended_Driver": 8,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 14,
+      "Jam_Label": "14:00",
+      "Demand_Index": 35,
+      "Recommended_Driver": 7,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 15,
+      "Jam_Label": "15:00",
+      "Demand_Index": 30,
+      "Recommended_Driver": 6,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 16,
+      "Jam_Label": "16:00",
+      "Demand_Index": 35,
+      "Recommended_Driver": 7,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 17,
+      "Jam_Label": "17:00",
+      "Demand_Index": 40,
+      "Recommended_Driver": 8,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 18,
+      "Jam_Label": "18:00",
+      "Demand_Index": 30,
+      "Recommended_Driver": 6,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 19,
+      "Jam_Label": "19:00",
+      "Demand_Index": 15,
+      "Recommended_Driver": 3,
+      "Keterangan": "Medium"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 20,
+      "Jam_Label": "20:00",
+      "Demand_Index": 10,
+      "Recommended_Driver": 2,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 21,
+      "Jam_Label": "21:00",
+      "Demand_Index": 8,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 22,
+      "Jam_Label": "22:00",
+      "Demand_Index": 5,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona B - Area Kampus",
+      "Jam": 23,
+      "Jam_Label": "23:00",
+      "Demand_Index": 3,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 0,
+      "Jam_Label": "00:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 1,
+      "Jam_Label": "01:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 2,
+      "Jam_Label": "02:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 3,
+      "Jam_Label": "03:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 4,
+      "Jam_Label": "04:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 5,
+      "Jam_Label": "05:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 6,
+      "Jam_Label": "06:00",
+      "Demand_Index": 2,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 7,
+      "Jam_Label": "07:00",
+      "Demand_Index": 5,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 8,
+      "Jam_Label": "08:00",
+      "Demand_Index": 15,
+      "Recommended_Driver": 3,
+      "Keterangan": "Medium"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 9,
+      "Jam_Label": "09:00",
+      "Demand_Index": 25,
+      "Recommended_Driver": 5,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 10,
+      "Jam_Label": "10:00",
+      "Demand_Index": 35,
+      "Recommended_Driver": 7,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 11,
+      "Jam_Label": "11:00",
+      "Demand_Index": 40,
+      "Recommended_Driver": 8,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 12,
+      "Jam_Label": "12:00",
+      "Demand_Index": 55,
+      "Recommended_Driver": 11,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 13,
+      "Jam_Label": "13:00",
+      "Demand_Index": 45,
+      "Recommended_Driver": 9,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 14,
+      "Jam_Label": "14:00",
+      "Demand_Index": 40,
+      "Recommended_Driver": 8,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 15,
+      "Jam_Label": "15:00",
+      "Demand_Index": 35,
+      "Recommended_Driver": 7,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 16,
+      "Jam_Label": "16:00",
+      "Demand_Index": 40,
+      "Recommended_Driver": 8,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 17,
+      "Jam_Label": "17:00",
+      "Demand_Index": 50,
+      "Recommended_Driver": 10,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 18,
+      "Jam_Label": "18:00",
+      "Demand_Index": 45,
+      "Recommended_Driver": 9,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 19,
+      "Jam_Label": "19:00",
+      "Demand_Index": 30,
+      "Recommended_Driver": 6,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 20,
+      "Jam_Label": "20:00",
+      "Demand_Index": 20,
+      "Recommended_Driver": 4,
+      "Keterangan": "Medium"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 21,
+      "Jam_Label": "21:00",
+      "Demand_Index": 10,
+      "Recommended_Driver": 2,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 22,
+      "Jam_Label": "22:00",
+      "Demand_Index": 5,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona C - Mall & Retail",
+      "Jam": 23,
+      "Jam_Label": "23:00",
+      "Demand_Index": 2,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 0,
+      "Jam_Label": "00:00",
+      "Demand_Index": 2,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 1,
+      "Jam_Label": "01:00",
+      "Demand_Index": 1,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 2,
+      "Jam_Label": "02:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 3,
+      "Jam_Label": "03:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 4,
+      "Jam_Label": "04:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 5,
+      "Jam_Label": "05:00",
+      "Demand_Index": 2,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 6,
+      "Jam_Label": "06:00",
+      "Demand_Index": 10,
+      "Recommended_Driver": 2,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 7,
+      "Jam_Label": "07:00",
+      "Demand_Index": 30,
+      "Recommended_Driver": 6,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 8,
+      "Jam_Label": "08:00",
+      "Demand_Index": 40,
+      "Recommended_Driver": 8,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 9,
+      "Jam_Label": "09:00",
+      "Demand_Index": 25,
+      "Recommended_Driver": 5,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 10,
+      "Jam_Label": "10:00",
+      "Demand_Index": 15,
+      "Recommended_Driver": 3,
+      "Keterangan": "Medium"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 11,
+      "Jam_Label": "11:00",
+      "Demand_Index": 10,
+      "Recommended_Driver": 2,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 12,
+      "Jam_Label": "12:00",
+      "Demand_Index": 15,
+      "Recommended_Driver": 3,
+      "Keterangan": "Medium"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 13,
+      "Jam_Label": "13:00",
+      "Demand_Index": 12,
+      "Recommended_Driver": 2,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 14,
+      "Jam_Label": "14:00",
+      "Demand_Index": 10,
+      "Recommended_Driver": 2,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 15,
+      "Jam_Label": "15:00",
+      "Demand_Index": 12,
+      "Recommended_Driver": 2,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 16,
+      "Jam_Label": "16:00",
+      "Demand_Index": 15,
+      "Recommended_Driver": 3,
+      "Keterangan": "Medium"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 17,
+      "Jam_Label": "17:00",
+      "Demand_Index": 20,
+      "Recommended_Driver": 4,
+      "Keterangan": "Medium"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 18,
+      "Jam_Label": "18:00",
+      "Demand_Index": 25,
+      "Recommended_Driver": 5,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 19,
+      "Jam_Label": "19:00",
+      "Demand_Index": 20,
+      "Recommended_Driver": 4,
+      "Keterangan": "Medium"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 20,
+      "Jam_Label": "20:00",
+      "Demand_Index": 15,
+      "Recommended_Driver": 3,
+      "Keterangan": "Medium"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 21,
+      "Jam_Label": "21:00",
+      "Demand_Index": 10,
+      "Recommended_Driver": 2,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 22,
+      "Jam_Label": "22:00",
+      "Demand_Index": 5,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona D - Residential",
+      "Jam": 23,
+      "Jam_Label": "23:00",
+      "Demand_Index": 3,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 0,
+      "Jam_Label": "00:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 1,
+      "Jam_Label": "01:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 2,
+      "Jam_Label": "02:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 3,
+      "Jam_Label": "03:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 4,
+      "Jam_Label": "04:00",
+      "Demand_Index": 0,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 5,
+      "Jam_Label": "05:00",
+      "Demand_Index": 1,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 6,
+      "Jam_Label": "06:00",
+      "Demand_Index": 15,
+      "Recommended_Driver": 3,
+      "Keterangan": "Medium"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 7,
+      "Jam_Label": "07:00",
+      "Demand_Index": 45,
+      "Recommended_Driver": 9,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 8,
+      "Jam_Label": "08:00",
+      "Demand_Index": 40,
+      "Recommended_Driver": 8,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 9,
+      "Jam_Label": "09:00",
+      "Demand_Index": 15,
+      "Recommended_Driver": 3,
+      "Keterangan": "Medium"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 10,
+      "Jam_Label": "10:00",
+      "Demand_Index": 5,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 11,
+      "Jam_Label": "11:00",
+      "Demand_Index": 3,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 12,
+      "Jam_Label": "12:00",
+      "Demand_Index": 5,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 13,
+      "Jam_Label": "13:00",
+      "Demand_Index": 4,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 14,
+      "Jam_Label": "14:00",
+      "Demand_Index": 3,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 15,
+      "Jam_Label": "15:00",
+      "Demand_Index": 4,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 16,
+      "Jam_Label": "16:00",
+      "Demand_Index": 5,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 17,
+      "Jam_Label": "17:00",
+      "Demand_Index": 35,
+      "Recommended_Driver": 7,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 18,
+      "Jam_Label": "18:00",
+      "Demand_Index": 45,
+      "Recommended_Driver": 9,
+      "Keterangan": "Peak"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 19,
+      "Jam_Label": "19:00",
+      "Demand_Index": 25,
+      "Recommended_Driver": 5,
+      "Keterangan": "High"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 20,
+      "Jam_Label": "20:00",
+      "Demand_Index": 10,
+      "Recommended_Driver": 2,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 21,
+      "Jam_Label": "21:00",
+      "Demand_Index": 5,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 22,
+      "Jam_Label": "22:00",
+      "Demand_Index": 2,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    },
+    {
+      "Zona": "Zona E - Transport",
+      "Jam": 23,
+      "Jam_Label": "23:00",
+      "Demand_Index": 1,
+      "Recommended_Driver": 1,
+      "Keterangan": "Low"
+    }
+  ],
+  "KPI Bulanan 12 Bulan": [
+    {
+      "Bulan": "Januari",
+      "Bulan_Ke": 1,
+      "Hari_Dalam_Bulan": 31,
+      "Avg_Cup_per_Hari": 8000,
+      "Total_Cup_Bulan": 248000,
+      "Avg_Harga_per_Cup": 10500,
+      "Revenue_Rp": 2604000000,
+      "COGS_Rp": 781200000,
+      "Operational_Cost_Rp": 651000000,
+      "Marketing_Cost_Rp": 130200000,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 941600000,
+      "Profit_Margin_persen": 36.16,
+      "Accumulated_Profit_Rp": 941600000,
+      "Driver_Count": 50
+    },
+    {
+      "Bulan": "Februari",
+      "Bulan_Ke": 2,
+      "Hari_Dalam_Bulan": 30,
+      "Avg_Cup_per_Hari": 8400,
+      "Total_Cup_Bulan": 252000,
+      "Avg_Harga_per_Cup": 10600,
+      "Revenue_Rp": 2671200000,
+      "COGS_Rp": 801360000,
+      "Operational_Cost_Rp": 667800000,
+      "Marketing_Cost_Rp": 133560000,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 968480000,
+      "Profit_Margin_persen": 36.26,
+      "Accumulated_Profit_Rp": 1910080000,
+      "Driver_Count": 50
+    },
+    {
+      "Bulan": "Maret",
+      "Bulan_Ke": 3,
+      "Hari_Dalam_Bulan": 31,
+      "Avg_Cup_per_Hari": 8820,
+      "Total_Cup_Bulan": 273420,
+      "Avg_Harga_per_Cup": 10700,
+      "Revenue_Rp": 2925594000,
+      "COGS_Rp": 877678200,
+      "Operational_Cost_Rp": 731398500,
+      "Marketing_Cost_Rp": 146279700,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 1070237600,
+      "Profit_Margin_persen": 36.58,
+      "Accumulated_Profit_Rp": 2980317600,
+      "Driver_Count": 50
+    },
+    {
+      "Bulan": "April",
+      "Bulan_Ke": 4,
+      "Hari_Dalam_Bulan": 30,
+      "Avg_Cup_per_Hari": 9261,
+      "Total_Cup_Bulan": 277830,
+      "Avg_Harga_per_Cup": 10800,
+      "Revenue_Rp": 3000564000,
+      "COGS_Rp": 900169200,
+      "Operational_Cost_Rp": 750141000,
+      "Marketing_Cost_Rp": 90016920,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 1160236880,
+      "Profit_Margin_persen": 38.67,
+      "Accumulated_Profit_Rp": 4140554480,
+      "Driver_Count": 51
+    },
+    {
+      "Bulan": "Mei",
+      "Bulan_Ke": 5,
+      "Hari_Dalam_Bulan": 31,
+      "Avg_Cup_per_Hari": 9724,
+      "Total_Cup_Bulan": 301444,
+      "Avg_Harga_per_Cup": 10900,
+      "Revenue_Rp": 3285739600,
+      "COGS_Rp": 985721880,
+      "Operational_Cost_Rp": 821434900,
+      "Marketing_Cost_Rp": 98572188,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 1280010632,
+      "Profit_Margin_persen": 38.96,
+      "Accumulated_Profit_Rp": 5420565112,
+      "Driver_Count": 51
+    },
+    {
+      "Bulan": "Juni",
+      "Bulan_Ke": 6,
+      "Hari_Dalam_Bulan": 30,
+      "Avg_Cup_per_Hari": 10210,
+      "Total_Cup_Bulan": 306300,
+      "Avg_Harga_per_Cup": 11000,
+      "Revenue_Rp": 3369300000,
+      "COGS_Rp": 1010790000,
+      "Operational_Cost_Rp": 842325000,
+      "Marketing_Cost_Rp": 101079000,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 1315106000,
+      "Profit_Margin_persen": 39.03,
+      "Accumulated_Profit_Rp": 6735671112,
+      "Driver_Count": 51
+    },
+    {
+      "Bulan": "Juli",
+      "Bulan_Ke": 7,
+      "Hari_Dalam_Bulan": 31,
+      "Avg_Cup_per_Hari": 10720,
+      "Total_Cup_Bulan": 332320,
+      "Avg_Harga_per_Cup": 11100,
+      "Revenue_Rp": 3688752000,
+      "COGS_Rp": 1106625600,
+      "Operational_Cost_Rp": 922188000,
+      "Marketing_Cost_Rp": 110662560,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 1449275840,
+      "Profit_Margin_persen": 39.29,
+      "Accumulated_Profit_Rp": 8184946952,
+      "Driver_Count": 52
+    },
+    {
+      "Bulan": "Agustus",
+      "Bulan_Ke": 8,
+      "Hari_Dalam_Bulan": 30,
+      "Avg_Cup_per_Hari": 11256,
+      "Total_Cup_Bulan": 337680,
+      "Avg_Harga_per_Cup": 11200,
+      "Revenue_Rp": 3782016000,
+      "COGS_Rp": 1134604800,
+      "Operational_Cost_Rp": 945504000,
+      "Marketing_Cost_Rp": 113460480,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 1488446720,
+      "Profit_Margin_persen": 39.36,
+      "Accumulated_Profit_Rp": 9673393672,
+      "Driver_Count": 52
+    },
+    {
+      "Bulan": "September",
+      "Bulan_Ke": 9,
+      "Hari_Dalam_Bulan": 31,
+      "Avg_Cup_per_Hari": 11819,
+      "Total_Cup_Bulan": 366389,
+      "Avg_Harga_per_Cup": 11300,
+      "Revenue_Rp": 4140195700,
+      "COGS_Rp": 1242058710,
+      "Operational_Cost_Rp": 1035048925,
+      "Marketing_Cost_Rp": 124205871,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 1638882194,
+      "Profit_Margin_persen": 39.58,
+      "Accumulated_Profit_Rp": 11312275866,
+      "Driver_Count": 52
+    },
+    {
+      "Bulan": "Oktober",
+      "Bulan_Ke": 10,
+      "Hari_Dalam_Bulan": 30,
+      "Avg_Cup_per_Hari": 12410,
+      "Total_Cup_Bulan": 372300,
+      "Avg_Harga_per_Cup": 11400,
+      "Revenue_Rp": 4244220000,
+      "COGS_Rp": 1273266000,
+      "Operational_Cost_Rp": 1061055000,
+      "Marketing_Cost_Rp": 127326600,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 1682572400,
+      "Profit_Margin_persen": 39.64,
+      "Accumulated_Profit_Rp": 12994848266,
+      "Driver_Count": 53
+    },
+    {
+      "Bulan": "November",
+      "Bulan_Ke": 11,
+      "Hari_Dalam_Bulan": 31,
+      "Avg_Cup_per_Hari": 13031,
+      "Total_Cup_Bulan": 403961,
+      "Avg_Harga_per_Cup": 11500,
+      "Revenue_Rp": 4645551500,
+      "COGS_Rp": 1393665450,
+      "Operational_Cost_Rp": 1161387875,
+      "Marketing_Cost_Rp": 139366545,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 1851131630,
+      "Profit_Margin_persen": 39.85,
+      "Accumulated_Profit_Rp": 14845979896,
+      "Driver_Count": 53
+    },
+    {
+      "Bulan": "Desember",
+      "Bulan_Ke": 12,
+      "Hari_Dalam_Bulan": 30,
+      "Avg_Cup_per_Hari": 13682,
+      "Total_Cup_Bulan": 410460,
+      "Avg_Harga_per_Cup": 11600,
+      "Revenue_Rp": 4761336000,
+      "COGS_Rp": 1428400800,
+      "Operational_Cost_Rp": 1190334000,
+      "Marketing_Cost_Rp": 142840080,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 1899761120,
+      "Profit_Margin_persen": 39.9,
+      "Accumulated_Profit_Rp": 16745741016,
+      "Driver_Count": 53
+    }
+  ],
+  "Risk Register": [
+    {
+      "Risk_ID": "RISK-001",
+      "Kategori_Risiko": "Operational",
+      "Deskripsi_Risiko": "Cuaca buruk (hujan lebat) mengurangi mobilitas driver",
+      "Probabilitas": "High",
+      "Impact": "High",
+      "Risk_Score": 9,
+      "Mitigation_Strategy": "Sediakan ponco/jas hujan driver; Partner dengan indoor locations",
+      "Contingency_Plan": "Shift ke mode pick-up point di mall; Delay delivery",
+      "Owner": "Operations Manager"
+    },
+    {
+      "Risk_ID": "RISK-002",
+      "Kategori_Risiko": "Operational",
+      "Deskripsi_Risiko": "Keterlambatan supply bahan baku",
+      "Probabilitas": "Medium",
+      "Impact": "Medium",
+      "Risk_Score": 6,
+      "Mitigation_Strategy": "Multi-sourcing supplier; Safety stock 7 hari",
+      "Contingency_Plan": "Sourcing darurat dari supermarket; Menu limitation",
+      "Owner": "Supply Chain"
+    },
+    {
+      "Risk_ID": "RISK-003",
+      "Kategori_Risiko": "Market",
+      "Deskripsi_Risiko": "Penurunan demand musim tertentu (puasa/lebaran)",
+      "Probabilitas": "High",
+      "Impact": "High",
+      "Risk_Score": 9,
+      "Mitigation_Strategy": "Menu spesial non-kopi; Jam berbeda untuk buka puasa",
+      "Contingency_Plan": "Promo bundling besar; Target area non-muslim",
+      "Owner": "Marketing"
+    },
+    {
+      "Risk_ID": "RISK-004",
+      "Kategori_Risiko": "Market",
+      "Deskripsi_Risiko": "Perubahan preferensi konsumen ke produk lain",
+      "Probabilitas": "Medium",
+      "Impact": "High",
+      "Risk_Score": 6,
+      "Mitigation_Strategy": "R&D produk baru; Market research berkala",
+      "Contingency_Plan": "Pivoting menu; Marketing agresif",
+      "Owner": "Product Team"
+    },
+    {
+      "Risk_ID": "RISK-005",
+      "Kategori_Risiko": "Financial",
+      "Deskripsi_Risiko": "Fluktuasi harga kopi global naik drastis",
+      "Probabilitas": "Medium",
+      "Impact": "High",
+      "Risk_Score": 6,
+      "Mitigation_Strategy": "Kontrak jangka panjang; Diversifikasi menu non-kopi",
+      "Contingency_Plan": "Harga dinamis; Efisiensi cost",
+      "Owner": "Finance"
+    },
+    {
+      "Risk_ID": "RISK-006",
+      "Kategori_Risiko": "Regulatory",
+      "Deskripsi_Risiko": "Perubahan regulasi perdagangan mobile/gerobak",
+      "Probabilitas": "Low",
+      "Impact": "High",
+      "Risk_Score": 4,
+      "Mitigation_Strategy": "Lobi pemerintah daerah; Compliance penuh dari awal",
+      "Contingency_Plan": "Relokasi ke area yang lebih permissible",
+      "Owner": "Legal/Compliance"
+    },
+    {
+      "Risk_ID": "RISK-007",
+      "Kategori_Risiko": "Human Resource",
+      "Deskripsi_Risiko": "Turnover driver tinggi",
+      "Probabilitas": "Medium",
+      "Impact": "Medium",
+      "Risk_Score": 6,
+      "Mitigation_Strategy": "Incentive kompetitif; Training program; Career path",
+      "Contingency_Plan": "Pool driver cadangan; Hiring cepat",
+      "Owner": "HR"
+    },
+    {
+      "Risk_ID": "RISK-008",
+      "Kategori_Risiko": "Technology",
+      "Deskripsi_Risiko": "App downtime/bug teknis",
+      "Probabilitas": "Medium",
+      "Impact": "Medium",
+      "Risk_Score": 6,
+      "Mitigation_Strategy": "Redundant server; Tech support 24/7; Backup manual process",
+      "Contingency_Plan": "Order via WhatsApp/Call sementara",
+      "Owner": "Tech Team"
+    },
+    {
+      "Risk_ID": "RISK-009",
+      "Kategori_Risiko": "External",
+      "Deskripsi_Risiko": "Banjir/Force Majeure di Jakarta Barat",
+      "Probabilitas": "Low",
+      "Impact": "High",
+      "Risk_Score": 4,
+      "Mitigation_Strategy": "Asuransi bisnis; Emergency fund; Diversifikasi lokasi",
+      "Contingency_Plan": "Operasional dari lokasi aman; Donation drive",
+      "Owner": "CEO"
+    },
+    {
+      "Risk_ID": "RISK-010",
+      "Kategori_Risiko": "Competition",
+      "Deskripsi_Risiko": "Kopi Jago atau kompetitor besar masuk Kembangan",
+      "Probabilitas": "High",
+      "Impact": "High",
+      "Risk_Score": 9,
+      "Mitigation_Strategy": "Differentiasi kuat; Loyalty program; Price monitoring",
+      "Contingency_Plan": "Price war strategy; Exclusive partnership",
+      "Owner": "Business Dev"
+    }
+  ],
+  "Break Even Analysis": [
+    {
+      "Metrik": "Fixed Cost Bulanan",
+      "Nilai": 100000000.0,
+      "Satuan": "Rupiah"
+    },
+    {
+      "Metrik": "Average Price per Cup",
+      "Nilai": 10500.0,
+      "Satuan": "Rupiah"
+    },
+    {
+      "Metrik": "Variable Cost per Cup",
+      "Nilai": 5775.0,
+      "Satuan": "Rupiah"
+    },
+    {
+      "Metrik": "Contribution Margin per Cup",
+      "Nilai": 4724.0,
+      "Satuan": "Rupiah"
+    },
+    {
+      "Metrik": "BEP Cup per Bulan",
+      "Nilai": 21164.0,
+      "Satuan": "Cup"
+    },
+    {
+      "Metrik": "BEP Cup per Hari",
+      "Nilai": 705.0,
+      "Satuan": "Cup"
+    },
+    {
+      "Metrik": "BEP Revenue per Bulan",
+      "Nilai": 222222222.0,
+      "Satuan": "Rupiah"
+    },
+    {
+      "Metrik": "BEP per Driver per Hari",
+      "Nilai": 14.1,
+      "Satuan": "Cup"
+    },
+    {
+      "Metrik": "Target Cup per Driver per Hari",
+      "Nilai": 200.0,
+      "Satuan": "Cup"
+    },
+    {
+      "Metrik": "Safety Margin Cup per Hari",
+      "Nilai": 7294.0,
+      "Satuan": "Cup"
+    },
+    {
+      "Metrik": "Safety Margin Persen",
+      "Nilai": 91.18,
+      "Satuan": "Persen"
+    }
+  ],
+  "Sensitivity Analysis": [
+    {
+      "Scenario": "Pessimistic",
+      "Cup_per_Driver_per_Day": 120,
+      "Avg_Price_per_Cup": 9000,
+      "Total_Cup_per_Day": 6000,
+      "Total_Cup_per_Month": 180000,
+      "Revenue_per_Month_Rp": 1620000000,
+      "COGS_Rp": 486000000,
+      "Operational_Cost_Rp": 405000000,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 629000000,
+      "Profit_Margin_persen": 38.83,
+      "ROI_Month_persen": 31.29
+    },
+    {
+      "Scenario": "Base Case",
+      "Cup_per_Driver_per_Day": 160,
+      "Avg_Price_per_Cup": 10500,
+      "Total_Cup_per_Day": 8000,
+      "Total_Cup_per_Month": 240000,
+      "Revenue_per_Month_Rp": 2520000000,
+      "COGS_Rp": 756000000,
+      "Operational_Cost_Rp": 630000000,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 1034000000,
+      "Profit_Margin_persen": 41.03,
+      "ROI_Month_persen": 51.44
+    },
+    {
+      "Scenario": "Optimistic",
+      "Cup_per_Driver_per_Day": 200,
+      "Avg_Price_per_Cup": 12000,
+      "Total_Cup_per_Day": 10000,
+      "Total_Cup_per_Month": 300000,
+      "Revenue_per_Month_Rp": 3600000000,
+      "COGS_Rp": 1080000000,
+      "Operational_Cost_Rp": 900000000,
+      "Fixed_Cost_Rp": 100000000,
+      "Net_Profit_Rp": 1520000000,
+      "Profit_Margin_persen": 42.22,
+      "ROI_Month_persen": 75.62
+    }
+  ],
+  "Staffing dan Gaji": [
+    {
+      "Posisi": "Driver Mobile Coffee",
+      "Jumlah_Staff": 50,
+      "Gaji_Pokok_per_Bulan": 3500000,
+      "Bonus_Performance": 100000,
+      "Benefits": 200000,
+      "Total_Cost_per_Staff": 3800000,
+      "Total_Cost_per_Jabatan": 190000000,
+      "Shift": "Rotating 3 Shift"
+    },
+    {
+      "Posisi": "Barista/Supervisor Driver",
+      "Jumlah_Staff": 5,
+      "Gaji_Pokok_per_Bulan": 5000000,
+      "Bonus_Performance": 500000,
+      "Benefits": 300000,
+      "Total_Cost_per_Staff": 5800000,
+      "Total_Cost_per_Jabatan": 29000000,
+      "Shift": "Rotating 3 Shift"
+    },
+    {
+      "Posisi": "Hub Manager",
+      "Jumlah_Staff": 1,
+      "Gaji_Pokok_per_Bulan": 8000000,
+      "Bonus_Performance": 1000000,
+      "Benefits": 500000,
+      "Total_Cost_per_Staff": 9500000,
+      "Total_Cost_per_Jabatan": 9500000,
+      "Shift": "Office Hours"
+    },
+    {
+      "Posisi": "Admin & Finance",
+      "Jumlah_Staff": 1,
+      "Gaji_Pokok_per_Bulan": 5000000,
+      "Bonus_Performance": 500000,
+      "Benefits": 300000,
+      "Total_Cost_per_Staff": 5800000,
+      "Total_Cost_per_Jabatan": 5800000,
+      "Shift": "Office Hours"
+    },
+    {
+      "Posisi": "Supply Chain Officer",
+      "Jumlah_Staff": 1,
+      "Gaji_Pokok_per_Bulan": 4500000,
+      "Bonus_Performance": 300000,
+      "Benefits": 250000,
+      "Total_Cost_per_Staff": 5050000,
+      "Total_Cost_per_Jabatan": 5050000,
+      "Shift": "Office Hours"
+    },
+    {
+      "Posisi": "Marketing Officer",
+      "Jumlah_Staff": 1,
+      "Gaji_Pokok_per_Bulan": 5000000,
+      "Bonus_Performance": 500000,
+      "Benefits": 300000,
+      "Total_Cost_per_Staff": 5800000,
+      "Total_Cost_per_Jabatan": 5800000,
+      "Shift": "Office Hours"
+    },
+    {
+      "Posisi": "Cleaning & Maintenance",
+      "Jumlah_Staff": 1,
+      "Gaji_Pokok_per_Bulan": 3000000,
+      "Bonus_Performance": 100000,
+      "Benefits": 150000,
+      "Total_Cost_per_Staff": 3250000,
+      "Total_Cost_per_Jabatan": 3250000,
+      "Shift": "Full Day"
+    },
+    {
+      "Posisi": "Security",
+      "Jumlah_Staff": 1,
+      "Gaji_Pokok_per_Bulan": 3000000,
+      "Bonus_Performance": 100000,
+      "Benefits": 150000,
+      "Total_Cost_per_Staff": 3250000,
+      "Total_Cost_per_Jabatan": 3250000,
+      "Shift": "Night Shift"
+    }
+  ],
+  "Master Summary": [
+    {
+      "Kategori": "LOKASI",
+      "Metrik": "Nama Proyek",
+      "Nilai": "Makkanya Express - Hub Kembangan",
+      "Satuan": "String",
+      "Sumber": "Business Plan"
+    },
+    {
+      "Kategori": "LOKASI",
+      "Metrik": "Lokasi Hub",
+      "Nilai": "Kembangan Selatan, Jakarta Barat",
+      "Satuan": "String",
+      "Sumber": "Business Plan"
+    },
+    {
+      "Kategori": "LOKASI",
+      "Metrik": "Total Area Coverage",
+      "Nilai": "25.59 km² (Kecamatan Kembangan)",
+      "Satuan": "km²",
+      "Sumber": "BPS 2024"
+    },
+    {
+      "Kategori": "LOKASI",
+      "Metrik": "Zona Operasional",
+      "Nilai": "5 Zona (A: CBD, B: Kampus, C: Mall, D: Residential, E: Transit)",
+      "Satuan": "Zona",
+      "Sumber": "Business Plan"
+    },
+    {
+      "Kategori": "DEMOGRAFI",
+      "Metrik": "Populasi Kembangan",
+      "Nilai": "334361",
+      "Satuan": "Jiwa",
+      "Sumber": "BPS Jakarta Barat 2024"
+    },
+    {
+      "Kategori": "DEMOGRAFI",
+      "Metrik": "Target Market (Usia 15-59)",
+      "Nilai": "225000",
+      "Satuan": "Jiwa",
+      "Sumber": "BPS Jakarta Barat 2024"
+    },
+    {
+      "Kategori": "DEMOGRAFI",
+      "Metrik": "Kepadatan Penduduk",
+      "Nilai": "13.067 jiwa/km²",
+      "Satuan": "jiwa/km²",
+      "Sumber": "BPS Jakarta Barat 2024"
+    },
+    {
+      "Kategori": "OPERASIONAL",
+      "Metrik": "Jumlah Driver",
+      "Nilai": "50",
+      "Satuan": "Orang",
+      "Sumber": "Business Plan"
+    },
+    {
+      "Kategori": "OPERASIONAL",
+      "Metrik": "Target Cup per Driver per Hari",
+      "Nilai": "200",
+      "Satuan": "Cup",
+      "Sumber": "Business Plan"
+    },
+    {
+      "Kategori": "OPERASIONAL",
+      "Metrik": "Total Target Cup per Hari",
+      "Nilai": "8000",
+      "Satuan": "Cup",
+      "Sumber": "Business Plan"
+    },
+    {
+      "Kategori": "OPERASIONAL",
+      "Metrik": "Shift Operasional",
+      "Nilai": "3 Shift (Pagi 07-12, Siang 12-17, Sore 17-21)",
+      "Satuan": "Shift",
+      "Sumber": "Business Plan"
+    },
+    {
+      "Kategori": "FINANSIAL",
+      "Metrik": "Harga Rata-rata per Cup",
+      "Nilai": "10500",
+      "Satuan": "Rupiah",
+      "Sumber": "Market Research"
+    },
+    {
+      "Kategori": "FINANSIAL",
+      "Metrik": "Revenue Harian (Base)",
+      "Nilai": "84000000",
+      "Satuan": "Rupiah",
+      "Sumber": "Financial Projection"
+    },
+    {
+      "Kategori": "FINANSIAL",
+      "Metrik": "Revenue Bulanan (Base)",
+      "Nilai": "2520000000",
+      "Satuan": "Rupiah",
+      "Sumber": "Financial Projection"
+    },
+    {
+      "Kategori": "FINANSIAL",
+      "Metrik": "Net Profit Bulanan (Base)",
+      "Nilai": "1034000000",
+      "Satuan": "Rupiah",
+      "Sumber": "Financial Projection"
+    },
+    {
+      "Kategori": "FINANSIAL",
+      "Metrik": "Break Even Point (Cup/Hari)",
+      "Nilai": "705",
+      "Satuan": "Cup",
+      "Sumber": "Financial Calculation"
+    },
+    {
+      "Kategori": "FINANSIAL",
+      "Metrik": "ROI Period",
+      "Nilai": "2-3 bulan",
+      "Satuan": "Bulan",
+      "Sumber": "Financial Projection"
+    },
+    {
+      "Kategori": "TARGET",
+      "Metrik": "Driver Achievement Rate",
+      "Nilai": "85-110%",
+      "Satuan": "Persen",
+      "Sumber": "Target Setting"
+    },
+    {
+      "Kategori": "TARGET",
+      "Metrik": "Customer Satisfaction Score",
+      "Nilai": "4.5/5",
+      "Satuan": "Score",
+      "Sumber": "Target Setting"
+    },
+    {
+      "Kategori": "TARGET",
+      "Metrik": "Market Share Target",
+      "Nilai": "10% dari coffee market Kembangan",
+      "Satuan": "Persen",
+      "Sumber": "Market Analysis"
+    },
+    {
+      "Kategori": "INVESTASI",
+      "Metrik": "Total Investment",
+      "Nilai": "2010000000",
+      "Satuan": "Rupiah",
+      "Sumber": "Investment Plan"
+    },
+    {
+      "Kategori": "INVESTASI",
+      "Metrik": "Payback Period",
+      "Nilai": "2.5 bulan",
+      "Satuan": "Bulan",
+      "Sumber": "Financial Projection"
+    }
+  ],
+  "Customer Detailed Real": [
+    {
+      "Segment_ID": "SEG001",
+      "Nama_Segment_Utama": "Office Workers",
+      "Sub_Area": "Puri Indah CBD",
+      "Populasi_Total": 45000,
+      "Populasi_Target_Coffee_Drinkers": 22500,
+      "Usia_Rata_Rata": 32,
+      "Income_Level_Rata_Rata_Rp": 8500000,
+      "Peak_Hours": "07:00-09:00, 12:00-14:00, 17:00-19:00",
+      "Traffic_Level": "Very High",
+      "Avg_Daily_Footfall": 18000,
+      "Estimated_Daily_Coffee_Demand_Cups": 2700,
+      "Sumber_Data": "BPS Jakarta Barat 2024 + Industry Analysis",
+      "Koordinat_Latitude": -6.188,
+      "Koordinat_Longitude": 106.738,
+      "Sumber_Link": "https://jakarta.bps.go.id",
+      "Gender_Distribution": {
+        "Laki-laki": 55,
+        "Perempuan": 45
+      },
+      "Education_Level": {
+        "S1": 60,
+        "S2": 25,
+        "D3": 10,
+        "Lainnya": 5
+      },
+      "Job_Type": {
+        "Karyawan Swasta": 70,
+        "PNS": 15,
+        "Wiraswasta": 10,
+        "Lainnya": 5
+      },
+      "Coffee_Preference": {
+        "Espresso Based": 65,
+        "Manual Brew": 20,
+        "Instant": 15
+      },
+      "Spending_Habit": "High - willing to pay Rp15-25K for premium coffee",
+      "Loyalty_Potential": "High - routine purchase pattern"
+    },
+    {
+      "Segment_ID": "SEG002",
+      "Nama_Segment_Utama": "Mall Visitors",
+      "Sub_Area": "Puri Indah Mall & Lippo Mall",
+      "Populasi_Total": 35000,
+      "Populasi_Target_Coffee_Drinkers": 14000,
+      "Usia_Rata_Rata": 28,
+      "Income_Level_Rata_Rata_Rp": 7000000,
+      "Peak_Hours": "10:00-22:00 (Weekend Peak)",
+      "Traffic_Level": "High",
+      "Avg_Daily_Footfall": 25000,
+      "Estimated_Daily_Coffee_Demand_Cups": 2100,
+      "Sumber_Data": "Mall Management Data 2024",
+      "Koordinat_Latitude": -6.188,
+      "Koordinat_Longitude": 106.736,
+      "Sumber_Link": "https://puriindahmall.com",
+      "Gender_Distribution": {
+        "Laki-laki": 48,
+        "Perempuan": 52
+      },
+      "Education_Level": {
+        "S1": 50,
+        "S2": 15,
+        "D3": 20,
+        "Lainnya": 15
+      },
+      "Job_Type": {
+        "Karyawan Swasta": 45,
+        "Ibu Rumah Tangga": 25,
+        "Pelajar": 20,
+        "Lainnya": 10
+      },
+      "Coffee_Preference": {
+        "Milk Based": 70,
+        "Frappuccino": 20,
+        "Espresso": 10
+      },
+      "Spending_Habit": "Medium - Rp10-20K range preferred",
+      "Loyalty_Potential": "Medium - influenced by promotions"
+    },
+    {
+      "Segment_ID": "SEG003",
+      "Nama_Segment_Utama": "University Students",
+      "Sub_Area": "Universitas Mercu Buana & Sekitar",
+      "Populasi_Total": 22000,
+      "Populasi_Target_Coffee_Drinkers": 15400,
+      "Usia_Rata_Rata": 21,
+      "Income_Level_Rata_Rata_Rp": 3500000,
+      "Peak_Hours": "08:00-10:00, 15:00-18:00, 19:00-22:00",
+      "Traffic_Level": "Medium-High",
+      "Avg_Daily_Footfall": 12000,
+      "Estimated_Daily_Coffee_Demand_Cups": 1540,
+      "Sumber_Data": "Universitas Mercu Buana 2024",
+      "Koordinat_Latitude": -6.196,
+      "Koordinat_Longitude": 106.722,
+      "Sumber_Link": "https://mercubuana.ac.id",
+      "Gender_Distribution": {
+        "Laki-laki": 45,
+        "Perempuan": 55
+      },
+      "Education_Level": {
+        "Mahasiswa S1": 80,
+        "Mahasiswa S2": 15,
+        "Lainnya": 5
+      },
+      "Job_Type": {
+        "Pelajar": 85,
+        "Part-time Worker": 10,
+        "Lainnya": 5
+      },
+      "Coffee_Preference": {
+        "Milk Based": 55,
+        "Frappuccino": 30,
+        "Espresso": 15
+      },
+      "Spending_Habit": "Price Sensitive - prefer Rp8-15K range",
+      "Loyalty_Potential": "Medium - influenced by social media"
+    },
+    {
+      "Segment_ID": "SEG004",
+      "Nama_Segment_Utama": "Commuters",
+      "Sub_Area": "Stasiun Taman Kota & Rawa Buaya",
+      "Populasi_Total": 28000,
+      "Populasi_Target_Coffee_Drinkers": 11200,
+      "Usia_Rata_Rata": 30,
+      "Income_Level_Rata_Rata_Rp": 6000000,
+      "Peak_Hours": "06:00-09:00, 17:00-20:00",
+      "Traffic_Level": "High",
+      "Avg_Daily_Footfall": 22000,
+      "Estimated_Daily_Coffee_Demand_Cups": 1540,
+      "Sumber_Data": "KAI Commuter Statistics 2024",
+      "Koordinat_Latitude": -6.188,
+      "Koordinat_Longitude": 106.735,
+      "Sumber_Link": "https://commuterline.id",
+      "Gender_Distribution": {
+        "Laki-laki": 52,
+        "Perempuan": 48
+      },
+      "Education_Level": {
+        "S1": 55,
+        "D3": 25,
+        "SMA": 15,
+        "Lainnya": 5
+      },
+      "Job_Type": {
+        "Karyawan Swasta": 60,
+        "PNS": 20,
+        "Wiraswasta": 15,
+        "Lainnya": 5
+      },
+      "Coffee_Preference": {
+        "Espresso Based": 50,
+        "Instant": 35,
+        "Manual Brew": 15
+      },
+      "Spending_Habit": "Medium - quick grab & go, Rp10-15K",
+      "Loyalty_Potential": "High - consistent daily routine"
+    },
+    {
+      "Segment_ID": "SEG005",
+      "Nama_Segment_Utama": "Residential",
+      "Sub_Area": "Kembangan Residential Area",
+      "Populasi_Total": 85000,
+      "Populasi_Target_Coffee_Drinkers": 25500,
+      "Usia_Rata_Rata": 35,
+      "Income_Level_Rata_Rata_Rp": 8000000,
+      "Peak_Hours": "06:00-08:00, 18:00-21:00",
+      "Traffic_Level": "Medium",
+      "Avg_Daily_Footfall": 15000,
+      "Estimated_Daily_Coffee_Demand_Cups": 1275,
+      "Sumber_Data": "BPS Jakarta Barat 2024",
+      "Koordinat_Latitude": -6.192,
+      "Koordinat_Longitude": 106.732,
+      "Sumber_Link": "https://jakarta.bps.go.id",
+      "Gender_Distribution": {
+        "Laki-laki": 50,
+        "Perempuan": 50
+      },
+      "Education_Level": {
+        "S1": 45,
+        "S2": 20,
+        "D3": 20,
+        "Lainnya": 15
+      },
+      "Job_Type": {
+        "Karyawan Swasta": 50,
+        "Ibu Rumah Tangga": 30,
+        "Wiraswasta": 15,
+        "Lainnya": 5
+      },
+      "Coffee_Preference": {
+        "Milk Based": 45,
+        "Espresso": 30,
+        "Manual Brew": 25
+      },
+      "Spending_Habit": "Medium-High - quality over price, Rp12-20K",
+      "Loyalty_Potential": "High - neighborhood loyalty"
+    },
+    {
+      "Segment_ID": "SEG006",
+      "Nama_Segment_Utama": "Healthcare Workers",
+      "Sub_Area": "RS Pondok Indah Puri & Klinik",
+      "Populasi_Total": 8000,
+      "Populasi_Target_Coffee_Drinkers": 5600,
+      "Usia_Rata_Rata": 33,
+      "Income_Level_Rata_Rata_Rp": 9000000,
+      "Peak_Hours": "06:00-08:00, 14:00-16:00, 20:00-22:00",
+      "Traffic_Level": "Medium-High",
+      "Avg_Daily_Footfall": 4000,
+      "Estimated_Daily_Coffee_Demand_Cups": 560,
+      "Sumber_Data": "RS Pondok Indah Data 2024",
+      "Koordinat_Latitude": -6.1865,
+      "Koordinat_Longitude": 106.7355,
+      "Sumber_Link": "https://rspondokindah.co.id",
+      "Gender_Distribution": {
+        "Laki-laki": 35,
+        "Perempuan": 65
+      },
+      "Education_Level": {
+        "S1": 50,
+        "S2": 30,
+        "Profesi": 15,
+        "Lainnya": 5
+      },
+      "Job_Type": {
+        "Dokter": 25,
+        "Perawat": 50,
+        "Staff": 20,
+        "Lainnya": 5
+      },
+      "Coffee_Preference": {
+        "Espresso Based": 70,
+        "Black Coffee": 25,
+        "Lainnya": 5
+      },
+      "Spending_Habit": "High - need caffeine boost, Rp15-25K",
+      "Loyalty_Potential": "High - consistent shift workers"
+    }
+  ],
+  "Risk Register Detailed": [
+    {
+      "Risk_ID": "RISK-001-WEATHER",
+      "Kategori_Risiko": "Cuaca & Iklim",
+      "Risk_Description": "Musim hujan Nov-April (puncak Jan-Feb: 22.6 hari hujan/bulan, curah hujan 290mm/bulan) mengurangi mobilitas driver",
+      "Probability": "High (75%)",
+      "Impact": "High",
+      "Risk_Score": 9,
+      "Mitigation_Strategy": "Sediakan ponco/jas hujan driver; Partner dengan indoor locations (mall, lobby kantor); Menu hot coffee promotion saat hujan",
+      "Contingency_Plan": "Shift ke mode pick-up point di 3 mall; Delay delivery 30-60 menit; Order via WhatsApp manual",
+      "Early_Warning_Indicators": "BMKG forecast hujan >70% probability; Cuaca mendung gelap; Angin kencang",
+      "Owner": "Operations Manager",
+      "Status": "Active Monitoring",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    },
+    {
+      "Risk_ID": "RISK-002-WEATHER",
+      "Kategori_Risiko": "Cuaca & Iklim",
+      "Risk_Description": "Banjir di Kembangan saat hujan deras (tercatat 22 Jan 2026: genangan 5-15cm di Jl Raya Kembangan)",
+      "Probability": "Medium (50%)",
+      "Impact": "High",
+      "Risk_Score": 8,
+      "Mitigation_Strategy": "Monitoring BMKG daily; Rute alternatif menghindari Jl Raya Kembangan saat hujan; Koordinasi dengan PPSU untuk drainase",
+      "Contingency_Plan": "Operasional dari lokasi aman (higher ground); Pompa portable untuk banjir ringan; Tutup operasional jika banjir >30cm",
+      "Early_Warning_Indicators": "BMKG warning hujan ekstrem; Tali air tersumbat; Genangan level 1 (5cm)",
+      "Owner": "Operations Manager",
+      "Status": "Active Monitoring",
+      "Sumber_Link": "https://poskota.id/search?q=banjir+kembangan"
+    },
+    {
+      "Risk_ID": "RISK-003-WEATHER",
+      "Kategori_Risiko": "Cuaca & Iklim",
+      "Risk_Description": "Suhu ekstrem 23-35°C dengan kelembaban 77.2% mempengaruhi storage bahan baku",
+      "Probability": "Medium (40%)",
+      "Impact": "Medium",
+      "Risk_Score": 6,
+      "Mitigation_Strategy": "Storage dengan suhu terkontrol; Packaging insulated; Monitoring expiry date ketat; Stok rotation FIFO",
+      "Contingency_Plan": "Emergency purchase dari supermarket; Menu limitation (hanya espresso based); Price adjustment sementara",
+      "Early_Warning_Indicators": "Suhu storage >8°C; Kelembaban >80%; Bahan baku mendekati expiry",
+      "Owner": "Supply Chain",
+      "Status": "Preventive",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    },
+    {
+      "Risk_ID": "RISK-004-TRAFFIC",
+      "Kategori_Risiko": "Lalu Lintas & Akses",
+      "Risk_Description": "Kemacetan parah di Jl Raya Kembangan & Outer Ring Road saat rush hour (06:00-09:00, 17:00-20:00)",
+      "Probability": "High (85%)",
+      "Impact": "High",
+      "Risk_Score": 9,
+      "Mitigation_Strategy": "Dynamic routing algorithm menghindari jam sibuk; Shift operations dimulai 07:00 (sebelum rush hour); Motor listrik untuk manuver lincah",
+      "Contingency_Plan": "Mode \"parkir tetap\" di dekat target area; Driver jalan kaki untuk delivery terakhir 100 meter; Re-schedule delivery",
+      "Early_Warning_Indicators": "Google Maps traffic red/black; Waze reports heavy traffic; Social media traffic complaints",
+      "Owner": "Operations Manager",
+      "Status": "Active Monitoring",
+      "Sumber_Link": "https://www.google.com/maps/dir/Jl.+Raya+Kembangan,+Kembangan,+Kec.+Kembangan,+Kota+Jakarta+Barat,+Daerah+Khusus+Ibukota+Jakarta"
+    },
+    {
+      "Risk_ID": "RISK-005-TRAFFIC",
+      "Kategori_Risiko": "Lalu Lintas & Akses",
+      "Risk_Description": "Proyek MRT Kembangan-Balaraja dalam tahap studi (MoU signed Feb 2026) - potensi gangguan konstruksi 2027-2030",
+      "Probability": "Medium (60%)",
+      "Impact": "Medium",
+      "Risk_Score": 6,
+      "Mitigation_Strategy": "Monitoring proyek MRT; Flexibility positioning; Early warning system; Alternative route planning",
+      "Contingency_Plan": "Relokasi sementara ke zona lain; Koordinasi dengan contractor untuk akses; Night operation jika diperlukan",
+      "Early_Warning_Indicators": "Berita proyek MRT; Pembersihan lahan; Pemasangan barrier construction",
+      "Owner": "Business Development",
+      "Status": "Watch List",
+      "Sumber_Link": "https://megapolitan.kompas.com/read/2025/02/04/16515841/mrt-kembangan-balaraja-tahap-studi-kelayakan"
+    },
+    {
+      "Risk_ID": "RISK-006-TRAFFIC",
+      "Kategori_Risiko": "Lalu Lintas & Akses",
+      "Risk_Description": "Akses terbatas ke area tertentu saat jam sekolah (06:30-07:30, 11:30-13:00)",
+      "Probability": "High (70%)",
+      "Impact": "Medium",
+      "Risk_Score": 6,
+      "Mitigation_Strategy": "Avoid school zones during peak times (06:30-07:30); Focus on office areas during school rush",
+      "Contingency_Plan": "Focus on office areas saat school rush; School break time operations (10:00-11:00, 13:00-14:00)",
+      "Early_Warning_Indicators": "Jam sekolah dimulai; Aktivitas anak-anak meningkat; Traffic di depan sekolah merah",
+      "Owner": "Operations Manager",
+      "Status": "Active Monitoring",
+      "Sumber_Link": "https://www.google.com/maps/search/sekolah+kembangan+jakarta+barat"
+    },
+    {
+      "Risk_ID": "RISK-007-REGULATORY",
+      "Kategori_Risiko": "Regulasi & Compliance",
+      "Risk_Description": "Perizinan motor listrik komersial memerlukan NIB & Sertifikat Standar melalui OSS (KBLI 27111)",
+      "Probability": "Medium (45%)",
+      "Impact": "High",
+      "Risk_Score": 7,
+      "Mitigation_Strategy": "Lengkapi NIB & Sertifikat Standar sebelum operasional; Koordinasi dengan Dinas Perdagangan Jakbar; Legal compliance 100%",
+      "Contingency_Plan": "Relokasi ke area yang lebih permissible; Pivot ke model delivery-only (tanpa gerobak tetap); Kerjasama dengan tenant exist",
+      "Early_Warning_Indicators": "Perubahan Perda; Razia Satpol PP; Surat peringatan dari Dinas",
+      "Owner": "Legal/Compliance",
+      "Status": "In Progress",
+      "Sumber_Link": "https://oss.go.id/"
+    },
+    {
+      "Risk_ID": "RISK-008-REGULATORY",
+      "Kategori_Risiko": "Regulasi & Compliance",
+      "Risk_Description": "Regulasi PKL (Pedagang Kaki Lima) berbasis mobile - perlu koordinasi dengan Satpol PP Jakbar",
+      "Probability": "Medium (50%)",
+      "Impact": "High",
+      "Risk_Score": 8,
+      "Mitigation_Strategy": "Lobi Satpol PP Jakbar; Ikut program PKL tertata; Compliance dengan Perda Kota Bersih; Izin lokasi tetap/mobile",
+      "Contingency_Plan": "Denda & pelanggaran: Siapkan dana cadangan Rp 50jt; Rapid response team; Public relations management",
+      "Early_Warning_Indicators": "Penegakan aturan PKL; Operasi penertiban; Perubahan kebijakan Gubernur",
+      "Owner": "Legal/Compliance",
+      "Status": "In Progress",
+      "Sumber_Link": "https://jdih.jakarta.go.id/"
+    },
+    {
+      "Risk_ID": "RISK-009-REGULATORY",
+      "Kategori_Risiko": "Regulasi & Compliance",
+      "Risk_Description": "Perubahan kebijakan motor listrik (Peraturan Gubernur DKI terkait kendaraan listrik 2024)",
+      "Probability": "Low (25%)",
+      "Impact": "Medium",
+      "Risk_Score": 5,
+      "Mitigation_Strategy": "Monitoring Perda DKI; Diversifikasi kendaraan (siapkan backup motor konvensional); Join association untuk advokasi",
+      "Contingency_Plan": "Adaptasi cepat ke regulasi baru; Upgrade kendaraan sesuai standar; Join industry association untuk kolaborasi",
+      "Early_Warning_Indicators": "Rapat dewan kota; Draft perda baru; Statement pejabat terkait",
+      "Owner": "Legal/Compliance",
+      "Status": "Watch List",
+      "Sumber_Link": "https://peraturan.bpk.go.id/"
+    },
+    {
+      "Risk_ID": "RISK-010-MARKET",
+      "Kategori_Risiko": "Pasar & Kompetisi",
+      "Risk_Description": "Kopi Jago atau kompetitor mobile coffee masuk Kembangan",
+      "Probability": "High (70%)",
+      "Impact": "High",
+      "Risk_Score": 8,
+      "Mitigation_Strategy": "Differentiasi kuat (harga Rp 8K vs kompetitor Rp 15K+); Loyalty program; Exclusive partnership dengan kantor/kampus",
+      "Contingency_Plan": "Price war strategy temporary; Market expansion ke area adjacent; Product differentiation intensif; Customer retention program",
+      "Early_Warning_Indicators": "Kompetitor buka outlet baru; Price drop kompetitor; Lost customers >10%",
+      "Owner": "Marketing Manager",
+      "Status": "Active Monitoring",
+      "Sumber_Link": "https://kopijago.com/"
+    },
+    {
+      "Risk_ID": "RISK-011-MARKET",
+      "Kategori_Risiko": "Pasar & Kompetisi",
+      "Risk_Description": "Fluktuasi harga kopi global (Arabica/Robusta) naik 20-30%",
+      "Probability": "Medium (40%)",
+      "Impact": "High",
+      "Risk_Score": 6,
+      "Mitigation_Strategy": "Kontrak jangka panjang dengan supplier; Hedging harga kopi; Diversifikasi menu (non-coffee 30%); Efficiency improvement",
+      "Contingency_Plan": "Menu engineering (kurangi porsi kopi naikkan milk); Substitute beans (Robusta vs Arabica); Price increase 10-15% gradual",
+      "Early_Warning_Indicators": "News harga kopi internasional; Supplier notification price increase; COGS naik >5%",
+      "Owner": "Finance Manager",
+      "Status": "Watch List",
+      "Sumber_Link": "https://www.ico.org/prices/coffee-prices"
+    },
+    {
+      "Risk_ID": "RISK-012-MARKET",
+      "Kategori_Risiko": "Pasar & Kompetisi",
+      "Risk_Description": "Perubahan preferensi konsumen ke minuman non-kopi (bubble tea, jus, dll)",
+      "Probability": "Medium (35%)",
+      "Impact": "Medium",
+      "Risk_Score": 5,
+      "Mitigation_Strategy": "Continuous product innovation; Market research berkala; Trend monitoring; Agile menu development",
+      "Contingency_Plan": "Quick pivot ke trending products; Marketing repositioning; Partnership dengan influencer; Limited time offers",
+      "Early_Warning_Indicators": "Social media trending minuman lain; Survey preferensi berubah; Sales non-coffee turun",
+      "Owner": "Product Manager",
+      "Status": "Preventive",
+      "Sumber_Link": "https://www.google.com/search?q=tren+minuman+2025+indonesia"
+    },
+    {
+      "Risk_ID": "RISK-013-OPERATIONAL",
+      "Kategori_Risiko": "Operasional",
+      "Risk_Description": "Turnover driver tinggi (industri F&B rata-rata 30-40% per tahun)",
+      "Probability": "High (65%)",
+      "Impact": "Medium",
+      "Risk_Score": 7,
+      "Mitigation_Strategy": "Competitive salary (Rp 3.5jt + komisi); Career path clear (Driver → Supervisor → Manager); Training program; Culture building",
+      "Contingency_Plan": "Pool driver cadangan (10% dari total); Hiring cepat 3-5 hari; Simplified training module; Outsourcing sementara",
+      "Early_Warning_Indicators": "Absenteeism meningkat; Complaint driver naik; Productivity turun >15%",
+      "Owner": "HR Manager",
+      "Status": "Preventive",
+      "Sumber_Link": "https://kemnaker.go.id/"
+    },
+    {
+      "Risk_ID": "RISK-014-OPERATIONAL",
+      "Kategori_Risiko": "Operasional",
+      "Risk_Description": "Keterlambatan supply chain bahan baku (susu, kopi, gula aren)",
+      "Probability": "Medium (45%)",
+      "Impact": "Medium",
+      "Risk_Score": 6,
+      "Mitigation_Strategy": "Multi-sourcing supplier (min 3 vendor); Safety stock 7 hari; Supplier lokal (Kembangan, Jakarta); Contract penalties",
+      "Contingency_Plan": "Sourcing darurat dari retail; Bahan substitusi (milk powder vs fresh milk); Operational hour reduction; Premium pricing",
+      "Early_Warning_Indicators": "Supplier delay >2 hari; Stock level <3 hari; Quality issue report",
+      "Owner": "Supply Chain",
+      "Status": "Preventive",
+      "Sumber_Link": "https://www.kemendag.go.id/"
+    },
+    {
+      "Risk_ID": "RISK-015-OPERATIONAL",
+      "Kategori_Risiko": "Operasional",
+      "Risk_Description": "Motor listrik breakdown (maintenance, baterai, charging issues)",
+      "Probability": "Medium (40%)",
+      "Impact": "High",
+      "Risk_Score": 7,
+      "Mitigation_Strategy": "Preventive maintenance schedule; Spare motor standby (10% dari fleet); Fast charging station; Emergency roadside assistance",
+      "Contingency_Plan": "Towing service 24 jam; Backup motor ready; Rental motor sementara; Ojek online integration untuk delivery",
+      "Early_Warning_Indicators": "Breakdown frequency >2x/minggu; Battery performance drop; Charging time increase",
+      "Owner": "Fleet Manager",
+      "Status": "Preventive",
+      "Sumber_Link": "https://www.esdm.go.id/"
+    }
+  ],
+  "Climate Data BMKG": [
+    {
+      "Bulan": "Januari",
+      "Curah_Hujan_mm": 289.8,
+      "Hari_Hujan": 22.6,
+      "Suhu_Rata_Rata_C": 27.5,
+      "Suhu_Min_C": 23.0,
+      "Suhu_Max_C": 32.0,
+      "Kelembaban_persen": 80,
+      "Kecepatan_Angin_m_s": 2.8,
+      "Musim": "Hujan",
+      "Impact_to_Operations": "Severe - High rain days, potential flooding",
+      "Sumber": "BMKG Jakarta Barat 2022",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    },
+    {
+      "Bulan": "Februari",
+      "Curah_Hujan_mm": 265.5,
+      "Hari_Hujan": 19.7,
+      "Suhu_Rata_Rata_C": 27.8,
+      "Suhu_Min_C": 23.2,
+      "Suhu_Max_C": 32.5,
+      "Kelembaban_persen": 79,
+      "Kecepatan_Angin_m_s": 2.9,
+      "Musim": "Hujan",
+      "Impact_to_Operations": "Severe - High rain days, potential flooding",
+      "Sumber": "BMKG",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    },
+    {
+      "Bulan": "Maret",
+      "Curah_Hujan_mm": 177.1,
+      "Hari_Hujan": 18.9,
+      "Suhu_Rata_Rata_C": 28.2,
+      "Suhu_Min_C": 23.5,
+      "Suhu_Max_C": 33.0,
+      "Kelembaban_persen": 78,
+      "Kecepatan_Angin_m_s": 3.0,
+      "Musim": "Hujan",
+      "Impact_to_Operations": "High - Moderate rain, occasional flooding",
+      "Sumber": "BMKG",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    },
+    {
+      "Bulan": "April",
+      "Curah_Hujan_mm": 145.8,
+      "Hari_Hujan": 16.1,
+      "Suhu_Rata_Rata_C": 28.5,
+      "Suhu_Min_C": 23.8,
+      "Suhu_Max_C": 33.2,
+      "Kelembaban_persen": 77,
+      "Kecepatan_Angin_m_s": 2.8,
+      "Musim": "Hujan",
+      "Impact_to_Operations": "Moderate - Less rain, occasional afternoon showers",
+      "Sumber": "BMKG",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    },
+    {
+      "Bulan": "Mei",
+      "Curah_Hujan_mm": 103.7,
+      "Hari_Hujan": 12.8,
+      "Suhu_Rata_Rata_C": 28.8,
+      "Suhu_Min_C": 24.0,
+      "Suhu_Max_C": 33.5,
+      "Kelembaban_persen": 76,
+      "Kecepatan_Angin_m_s": 2.6,
+      "Musim": "Peralihan",
+      "Impact_to_Operations": "Low - Rare rain, good for operations",
+      "Sumber": "BMKG",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    },
+    {
+      "Bulan": "Juni",
+      "Curah_Hujan_mm": 65.8,
+      "Hari_Hujan": 8.2,
+      "Suhu_Rata_Rata_C": 28.5,
+      "Suhu_Min_C": 23.5,
+      "Suhu_Max_C": 33.0,
+      "Kelembaban_persen": 75,
+      "Kecepatan_Angin_m_s": 2.4,
+      "Musim": "Kemarau",
+      "Impact_to_Operations": "Minimal - Dry season, optimal operations",
+      "Sumber": "BMKG",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    },
+    {
+      "Bulan": "Juli",
+      "Curah_Hujan_mm": 55.5,
+      "Hari_Hujan": 7.1,
+      "Suhu_Rata_Rata_C": 28.2,
+      "Suhu_Min_C": 23.0,
+      "Suhu_Max_C": 32.8,
+      "Kelembaban_persen": 74,
+      "Kecepatan_Angin_m_s": 2.5,
+      "Musim": "Kemarau",
+      "Impact_to_Operations": "Minimal - Dry season, optimal operations",
+      "Sumber": "BMKG",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    },
+    {
+      "Bulan": "Agustus",
+      "Curah_Hujan_mm": 48.4,
+      "Hari_Hujan": 5.8,
+      "Suhu_Rata_Rata_C": 28.0,
+      "Suhu_Min_C": 22.8,
+      "Suhu_Max_C": 32.5,
+      "Kelembaban_persen": 73,
+      "Kecepatan_Angin_m_s": 2.6,
+      "Musim": "Kemarau",
+      "Impact_to_Operations": "Minimal - Dry season, optimal operations",
+      "Sumber": "BMKG",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    },
+    {
+      "Bulan": "September",
+      "Curah_Hujan_mm": 55.8,
+      "Hari_Hujan": 7.4,
+      "Suhu_Rata_Rata_C": 28.3,
+      "Suhu_Min_C": 23.2,
+      "Suhu_Max_C": 32.8,
+      "Kelembaban_persen": 75,
+      "Kecepatan_Angin_m_s": 2.7,
+      "Musim": "Peralihan",
+      "Impact_to_Operations": "Low - Rare rain, good for operations",
+      "Sumber": "BMKG",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    },
+    {
+      "Bulan": "Oktober",
+      "Curah_Hujan_mm": 94.9,
+      "Hari_Hujan": 12.0,
+      "Suhu_Rata_Rata_C": 28.6,
+      "Suhu_Min_C": 23.5,
+      "Suhu_Max_C": 33.2,
+      "Kelembaban_persen": 78,
+      "Kecepatan_Angin_m_s": 2.8,
+      "Musim": "Peralihan",
+      "Impact_to_Operations": "Moderate - Increasing rain frequency",
+      "Sumber": "BMKG",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    },
+    {
+      "Bulan": "November",
+      "Curah_Hujan_mm": 153.4,
+      "Hari_Hujan": 17.3,
+      "Suhu_Rata_Rata_C": 28.2,
+      "Suhu_Min_C": 23.3,
+      "Suhu_Max_C": 32.8,
+      "Kelembaban_persen": 80,
+      "Kecepatan_Angin_m_s": 2.8,
+      "Musim": "Hujan",
+      "Impact_to_Operations": "High - Rainy season returns",
+      "Sumber": "BMKG",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    },
+    {
+      "Bulan": "Desember",
+      "Curah_Hujan_mm": 195.4,
+      "Hari_Hujan": 19.8,
+      "Suhu_Rata_Rata_C": 27.8,
+      "Suhu_Min_C": 23.1,
+      "Suhu_Max_C": 32.2,
+      "Kelembaban_persen": 81,
+      "Kecepatan_Angin_m_s": 2.7,
+      "Musim": "Hujan",
+      "Impact_to_Operations": "Severe - High rain frequency",
+      "Sumber": "BMKG",
+      "Sumber_Link": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca/31"
+    }
+  ],
+  "Traffic Pattern Real": [
+    {
+      "Zona": "Puri Indah CBD",
+      "Waktu": "06:00-09:00",
+      "Traffic_Level": "Severe Congestion",
+      "Congestion_Index": 9.5,
+      "Avg_Speed_kmh": 10,
+      "Estimated_Delay_menit": 20,
+      "Best_Time_Operations": "No",
+      "Keterangan": "Rush hour pagi - macet parah"
+    },
+    {
+      "Zona": "Puri Indah CBD",
+      "Waktu": "09:00-12:00",
+      "Traffic_Level": "Moderate",
+      "Congestion_Index": 6.0,
+      "Avg_Speed_kmh": 25,
+      "Estimated_Delay_menit": 5,
+      "Best_Time_Operations": "Yes",
+      "Keterangan": "Office hours normal"
+    },
+    {
+      "Zona": "Puri Indah CBD",
+      "Waktu": "12:00-15:00",
+      "Traffic_Level": "Light",
+      "Congestion_Index": 3.0,
+      "Avg_Speed_kmh": 40,
+      "Estimated_Delay_menit": 0,
+      "Best_Time_Operations": "Yes",
+      "Keterangan": "Lunch break"
+    },
+    {
+      "Zona": "Puri Indah CBD",
+      "Waktu": "15:00-19:00",
+      "Traffic_Level": "Heavy Congestion",
+      "Congestion_Index": 8.5,
+      "Avg_Speed_kmh": 15,
+      "Estimated_Delay_menit": 15,
+      "Best_Time_Operations": "No",
+      "Keterangan": "Rush hour sore"
+    },
+    {
+      "Zona": "Area Kampus",
+      "Waktu": "06:00-09:00",
+      "Traffic_Level": "Moderate",
+      "Congestion_Index": 6.5,
+      "Avg_Speed_kmh": 20,
+      "Estimated_Delay_menit": 10,
+      "Best_Time_Operations": "No",
+      "Keterangan": "Mahasiswa masuk kampus"
+    },
+    {
+      "Zona": "Area Kampus",
+      "Waktu": "09:00-12:00",
+      "Traffic_Level": "Light",
+      "Congestion_Index": 4.0,
+      "Avg_Speed_kmh": 35,
+      "Estimated_Delay_menit": 0,
+      "Best_Time_Operations": "Yes",
+      "Keterangan": "Kuliah berlangsung"
+    },
+    {
+      "Zona": "Area Kampus",
+      "Waktu": "12:00-15:00",
+      "Traffic_Level": "Moderate",
+      "Congestion_Index": 5.5,
+      "Avg_Speed_kmh": 25,
+      "Estimated_Delay_menit": 5,
+      "Best_Time_Operations": "Yes",
+      "Keterangan": "Istirahat siang"
+    },
+    {
+      "Zona": "Area Kampus",
+      "Waktu": "15:00-19:00",
+      "Traffic_Level": "Heavy",
+      "Congestion_Index": 7.0,
+      "Avg_Speed_kmh": 18,
+      "Estimated_Delay_menit": 12,
+      "Best_Time_Operations": "No",
+      "Keterangan": "Pulang kampus"
+    },
+    {
+      "Zona": "Mall Area",
+      "Waktu": "06:00-09:00",
+      "Traffic_Level": "Moderate",
+      "Congestion_Index": 6.0,
+      "Avg_Speed_kmh": 25,
+      "Estimated_Delay_menit": 8,
+      "Best_Time_Operations": "No",
+      "Keterangan": "Opening mall"
+    },
+    {
+      "Zona": "Mall Area",
+      "Waktu": "09:00-12:00",
+      "Traffic_Level": "Light",
+      "Congestion_Index": 3.5,
+      "Avg_Speed_kmh": 45,
+      "Estimated_Delay_menit": 0,
+      "Best_Time_Operations": "Yes",
+      "Keterangan": "Operations normal"
+    },
+    {
+      "Zona": "Mall Area",
+      "Waktu": "12:00-15:00",
+      "Traffic_Level": "Moderate",
+      "Congestion_Index": 5.0,
+      "Avg_Speed_kmh": 30,
+      "Estimated_Delay_menit": 5,
+      "Best_Time_Operations": "Yes",
+      "Keterangan": "Lunch shopping"
+    },
+    {
+      "Zona": "Mall Area",
+      "Waktu": "15:00-19:00",
+      "Traffic_Level": "Heavy Congestion",
+      "Congestion_Index": 8.0,
+      "Avg_Speed_kmh": 12,
+      "Estimated_Delay_menit": 18,
+      "Best_Time_Operations": "No",
+      "Keterangan": "Evening shopping rush"
+    },
+    {
+      "Zona": "Residential",
+      "Waktu": "06:00-09:00",
+      "Traffic_Level": "Heavy",
+      "Congestion_Index": 7.0,
+      "Avg_Speed_kmh": 15,
+      "Estimated_Delay_menit": 12,
+      "Best_Time_Operations": "No",
+      "Keterangan": "Sekolah & kerja pagi"
+    },
+    {
+      "Zona": "Residential",
+      "Waktu": "09:00-12:00",
+      "Traffic_Level": "Light",
+      "Congestion_Index": 2.5,
+      "Avg_Speed_kmh": 40,
+      "Estimated_Delay_menit": 0,
+      "Best_Time_Operations": "Yes",
+      "Keterangan": "Ibu rumah tangga"
+    },
+    {
+      "Zona": "Residential",
+      "Waktu": "12:00-15:00",
+      "Traffic_Level": "Light",
+      "Congestion_Index": 2.5,
+      "Avg_Speed_kmh": 40,
+      "Estimated_Delay_menit": 0,
+      "Best_Time_Operations": "Yes",
+      "Keterangan": "Siang sepi"
+    },
+    {
+      "Zona": "Residential",
+      "Waktu": "15:00-19:00",
+      "Traffic_Level": "Moderate",
+      "Congestion_Index": 5.0,
+      "Avg_Speed_kmh": 25,
+      "Estimated_Delay_menit": 8,
+      "Best_Time_Operations": "No",
+      "Keterangan": "Pulang sekolah/kerja"
+    },
+    {
+      "Zona": "Transport Hub",
+      "Waktu": "06:00-09:00",
+      "Traffic_Level": "Severe Congestion",
+      "Congestion_Index": 9.0,
+      "Avg_Speed_kmh": 8,
+      "Estimated_Delay_menit": 25,
+      "Best_Time_Operations": "No",
+      "Keterangan": "KRL morning rush"
+    },
+    {
+      "Zona": "Transport Hub",
+      "Waktu": "09:00-12:00",
+      "Traffic_Level": "Light",
+      "Congestion_Index": 3.0,
+      "Avg_Speed_kmh": 35,
+      "Estimated_Delay_menit": 0,
+      "Best_Time_Operations": "Yes",
+      "Keterangan": "Off-peak"
+    },
+    {
+      "Zona": "Transport Hub",
+      "Waktu": "12:00-15:00",
+      "Traffic_Level": "Light",
+      "Congestion_Index": 3.0,
+      "Avg_Speed_kmh": 35,
+      "Estimated_Delay_menit": 0,
+      "Best_Time_Operations": "Yes",
+      "Keterangan": "Off-peak"
+    },
+    {
+      "Zona": "Transport Hub",
+      "Waktu": "15:00-19:00",
+      "Traffic_Level": "Severe Congestion",
+      "Congestion_Index": 9.0,
+      "Avg_Speed_kmh": 8,
+      "Estimated_Delay_menit": 25,
+      "Best_Time_Operations": "No",
+      "Keterangan": "KRL evening rush"
+    }
+  ],
+  "Regulatory Compliance": [
+    {
+      "Jenis_Izin": "NIB (Nomor Induk Berusaha)",
+      "Kode_KBLI": "47111",
+      "Instansi_Pemberi": "OSS (Online Single Submission)",
+      "Status_Wajib": "Wajib",
+      "Estimasi_Biaya_Rp": 0,
+      "Estimasi_Waktu_Hari": 1,
+      "Persyaratan_Utama": "KTP, NPWP, alamat usaha",
+      "Risiko_Jika_Tidak_Punya": "Tidak bisa beroperasi",
+      "Status_Pengurusan": "Priority",
+      "Sumber_Link": "https://oss.go.id/"
+    },
+    {
+      "Jenis_Izin": "Sertifikat Standar",
+      "Kode_KBLI": "47111",
+      "Instansi_Pemberi": "OSS / Dinas Perdagangan",
+      "Status_Wajib": "Wajib",
+      "Estimasi_Biaya_Rp": 0,
+      "Estimasi_Waktu_Hari": 3,
+      "Persyaratan_Utama": "NIB, commitment letter",
+      "Risiko_Jika_Tidak_Punya": "Denda, operasional terhenti",
+      "Status_Pengurusan": "Priority",
+      "Sumber_Link": "https://oss.go.id/"
+    },
+    {
+      "Jenis_Izin": "Izin Usaha Perdagangan (IUP)",
+      "Kode_KBLI": "47111",
+      "Instansi_Pemberi": "Dinas Perdagangan Jakarta Barat",
+      "Status_Wajib": "Wajib",
+      "Estimasi_Biaya_Rp": 500000,
+      "Estimasi_Waktu_Hari": 7,
+      "Persyaratan_Utama": "NIB, domisili usaha",
+      "Risiko_Jika_Tidak_Punya": "Denda Rp 50 juta",
+      "Status_Pengurusan": "Priority",
+      "Sumber_Link": "https://www.kemendag.go.id/"
+    },
+    {
+      "Jenis_Izin": "Tanda Daftar Perusahaan (TDP)",
+      "Kode_KBLI": "-",
+      "Instansi_Pemberi": "Dinas Perdagangan",
+      "Status_Wajib": "Wajib",
+      "Estimasi_Biaya_Rp": 0,
+      "Estimasi_Waktu_Hari": 3,
+      "Persyaratan_Utama": "Akta perusahaan, NIB",
+      "Risiko_Jika_Tidak_Punya": "Denda administrasi",
+      "Status_Pengurusan": "Priority",
+      "Sumber_Link": "https://peraturan.bpk.go.id/"
+    },
+    {
+      "Jenis_Izin": "Sertifikasi Halal",
+      "Kode_KBLI": "-",
+      "Instansi_Pemberi": "BPJPH / MUI",
+      "Status_Wajib": "Wajib",
+      "Estimasi_Biaya_Rp": 5000000,
+      "Estimasi_Waktu_Hari": 30,
+      "Persyaratan_Utama": "Daftar bahan baku, proses produksi",
+      "Risiko_Jika_Tidak_Punya": "Kehilangan segmentasi Muslim",
+      "Status_Pengurusan": "Priority",
+      "Sumber_Link": "https://halal.go.id/"
+    },
+    {
+      "Jenis_Izin": "Izin Lokasi Mobile/Gerobak",
+      "Kode_KBLI": "-",
+      "Instansi_Pemberi": "Satpol PP Jakbar / Dinas Perdagangan",
+      "Status_Wajib": "Wajib",
+      "Estimasi_Biaya_Rp": 2500000,
+      "Estimasi_Waktu_Hari": 14,
+      "Persyaratan_Utama": "Denah lokasi, foto kondisi, izin pengelola",
+      "Risiko_Jika_Tidak_Punya": "Penggerebekan, denda",
+      "Status_Pengurusan": "Priority",
+      "Sumber_Link": "https://jdih.jakarta.go.id/"
+    },
+    {
+      "Jenis_Izin": "Izin Penggunaan Trotoar (jika applicable)",
+      "Kode_KBLI": "-",
+      "Instansi_Pemberi": "Dinas Bina Marga DKI",
+      "Status_Wajib": "Kondisional",
+      "Estimasi_Biaya_Rp": 1000000,
+      "Estimasi_Waktu_Hari": 14,
+      "Persyaratan_Utama": "Rencana layout, safety plan",
+      "Risiko_Jika_Tidak_Punya": "Penggusuran",
+      "Status_Pengurusan": "Secondary",
+      "Sumber_Link": "https://peraturan.bpk.go.id/"
+    },
+    {
+      "Jenis_Izin": "Izin Pengelolaan Lingkungan (SPPL)",
+      "Kode_KBLI": "-",
+      "Instansi_Pemberi": "DLH Jakarta Barat",
+      "Status_Wajib": "Wajib",
+      "Estimasi_Biaya_Rp": 0,
+      "Estimasi_Waktu_Hari": 7,
+      "Persyaratan_Utama": "Dokumen UKL-UPL sederhana",
+      "Risiko_Jika_Tidak_Punya": "Denda lingkungan",
+      "Status_Pengurusan": "Priority",
+      "Sumber_Link": "https://peraturan.bpk.go.id/"
+    },
+    {
+      "Jenis_Izin": "NPWP Perusahaan",
+      "Kode_KBLI": "-",
+      "Instansi_Pemberi": "Kementerian Keuangan",
+      "Status_Wajib": "Wajib",
+      "Estimasi_Biaya_Rp": 0,
+      "Estimasi_Waktu_Hari": 1,
+      "Persyaratan_Utama": "Akta perusahaan, KTP direksi",
+      "Risiko_Jika_Tidak_Punya": "Masalah perpajakan",
+      "Status_Pengurusan": "Done",
+      "Sumber_Link": "https://peraturan.bpk.go.id/"
+    },
+    {
+      "Jenis_Izin": "Izin Karyawan (KTA - Kartu Tanda Anggota)",
+      "Kode_KBLI": "-",
+      "Instansi_Pemberi": "Disnakertrans",
+      "Status_Wajib": "Wajib",
+      "Estimasi_Biaya_Rp": 0,
+      "Estimasi_Waktu_Hari": 7,
+      "Persyaratan_Utama": "Data karyawan, kontrak kerja",
+      "Risiko_Jika_Tidak_Punya": "Sanksi ketenagakerjaan",
+      "Status_Pengurusan": "In Progress",
+      "Sumber_Link": "https://peraturan.bpk.go.id/"
+    },
+    {
+      "Jenis_Izin": "Sertifikat Laik Hygiene",
+      "Kode_KBLI": "-",
+      "Instansi_Pemberi": "Dinas Kesehatan Jakbar",
+      "Status_Wajib": "Wajib",
+      "Estimasi_Biaya_Rp": 1500000,
+      "Estimasi_Waktu_Hari": 14,
+      "Persyaratan_Utama": "Layout dapur, SOP hygiene",
+      "Risiko_Jika_Tidak_Punya": "Denda kesehatan, tutup",
+      "Status_Pengurusan": "Priority",
+      "Sumber_Link": "https://oss.go.id/"
+    },
+    {
+      "Jenis_Izin": "Izin Reklame (branding motor)",
+      "Kode_KBLI": "-",
+      "Instansi_Pemberi": "Dinas Penataan Kota",
+      "Status_Wajib": "Kondisional",
+      "Estimasi_Biaya_Rp": 500000,
+      "Estimasi_Waktu_Hari": 7,
+      "Persyaratan_Utama": "Desain reklame, lokasi pemasangan",
+      "Risiko_Jika_Tidak_Punya": "Penertiban reklame",
+      "Status_Pengurusan": "Secondary",
+      "Sumber_Link": "https://peraturan.bpk.go.id/"
+    },
+    {
+      "Jenis_Izin": "Pendaftaran Merek Dagang",
+      "Kode_KBLI": "-",
+      "Instansi_Pemberi": "Kemenkumham",
+      "Status_Wajib": "Rekomendasi",
+      "Estimasi_Biaya_Rp": 2000000,
+      "Estimasi_Waktu_Hari": 60,
+      "Persyaratan_Utama": "Logo, desain kemasan",
+      "Risiko_Jika_Tidak_Punya": "Pelanggaran merek",
+      "Status_Pengurusan": "Later",
+      "Sumber_Link": "https://peraturan.bpk.go.id/"
+    },
+    {
+      "Jenis_Izin": "Izin Bahan Berbahaya (gas LPG untuk brewing)",
+      "Kode_KBLI": "-",
+      "Instansi_Pemberi": "Dinas Tenaga Kerja & Transmigrasi",
+      "Status_Wajib": "Kondisional",
+      "Estimasi_Biaya_Rp": 0,
+      "Estimasi_Waktu_Hari": 7,
+      "Persyaratan_Utama": "MSDS, SOP penggunaan",
+      "Risiko_Jika_Tidak_Punya": "Bahaya keselamatan, denda",
+      "Status_Pengurusan": "Secondary",
+      "Sumber_Link": "https://peraturan.bpk.go.id/"
+    },
+    {
+      "Jenis_Izin": "Kontrak dengan Pengelola Gedung/Mall",
+      "Kode_KBLI": "-",
+      "Instansi_Pemberi": "Pengelola Gedung/Mall",
+      "Status_Wajib": "Kondisional",
+      "Estimasi_Biaya_Rp": 0,
+      "Estimasi_Waktu_Hari": 14,
+      "Persyaratan_Utama": "Proposal kerjasama, asuransi",
+      "Risiko_Jika_Tidak_Punya": "Blacklist dari pengelola",
+      "Status_Pengurusan": "In Progress",
+      "Sumber_Link": "https://peraturan.bpk.go.id/"
+    }
+  ],
+  "Zona Radius Data": [
+    {
+      "Zona_ID": "ZONA_A",
+      "Nama_Zona": "Puri Indah CBD",
+      "Lokasi_HUB": "Puri Indah CBD (Pusat)",
+      "Latitude": -6.188,
+      "Longitude": 106.738,
+      "Radius_KM": 2.5,
+      "Radius_Menit_Motor": 8,
+      "Radius_Menit_Mobil": 12,
+      "Jarak_ke_Zona_B_KM": 3.2,
+      "Jarak_ke_Zona_C_KM": 4.5,
+      "Jarak_ke_Zona_D_KM": 2.8,
+      "Jarak_ke_Zona_E_KM": 1.5,
+      "Populasi_Total": 85000,
+      "Footfall_Harian": 75000,
+      "Demand_Power": 8500,
+      "Risiko_Lalu_Lintas": [
+        {
+          "Risiko": "Jam sibuk pagi (07:00-09:00)",
+          "Level": "Tinggi",
+          "Deskripsi": "Kepadatan lalu lintas mencapai 80-90%"
+        },
+        {
+          "Risiko": "Jam sibuk sore (17:00-19:00)",
+          "Level": "Tinggi",
+          "Deskripsi": "Kepadatan lalu lintas mencapai 85-95%"
+        },
+        {
+          "Risiko": "Parkir liar",
+          "Level": "Sedang",
+          "Deskripsi": "Trotoar sering digunakan parkir liar"
+        },
+        {
+          "Risiko": "Banjir",
+          "Level": "Sedang",
+          "Deskripsi": "Risiko banjir saat hujan deras di Jl. Pesanggrahan"
+        }
+      ]
+    },
+    {
+      "Zona_ID": "ZONA_B",
+      "Nama_Zona": "Transport Hub",
+      "Lokasi_HUB": "Stasiun Taman Kota",
+      "Latitude": -6.1915,
+      "Longitude": 106.7415,
+      "Radius_KM": 1.8,
+      "Radius_Menit_Motor": 5,
+      "Radius_Menit_Mobil": 8,
+      "Jarak_ke_Zona_A_KM": 3.2,
+      "Jarak_ke_Zona_C_KM": 5.8,
+      "Jarak_ke_Zona_D_KM": 2.1,
+      "Jarak_ke_Zona_E_KM": 2.5,
+      "Populasi_Total": 45000,
+      "Footfall_Harian": 35000,
+      "Demand_Power": 4900,
+      "Risiko_Lalu_Lintas": [
+        {
+          "Risiko": "Antrean kendaraan di stasiun",
+          "Level": "Tinggi",
+          "Deskripsi": "Antrean ojek online dan angkot mengganggu arus"
+        },
+        {
+          "Risiko": "Jam pulang kerja",
+          "Level": "Tinggi",
+          "Deskripsi": "Padatnya penumpang KRL jam 17:00-19:00"
+        },
+        {
+          "Risiko": "Parkir liar ojek",
+          "Level": "Sedang",
+          "Deskripsi": "Ojek online parkir sembarangan"
+        },
+        {
+          "Risiko": "Cuaca buruk",
+          "Level": "Sedang",
+          "Deskripsi": "Penumpukan penumpang saat hujan"
+        }
+      ]
+    },
+    {
+      "Zona_ID": "ZONA_C",
+      "Nama_Zona": "Healthcare & Market",
+      "Lokasi_HUB": "RS Pondok Indah Puri",
+      "Latitude": -6.1865,
+      "Longitude": 106.7355,
+      "Radius_KM": 2.0,
+      "Radius_Menit_Motor": 6,
+      "Radius_Menit_Mobil": 10,
+      "Jarak_ke_Zona_A_KM": 4.5,
+      "Jarak_ke_Zona_B_KM": 5.8,
+      "Jarak_ke_Zona_D_KM": 3.5,
+      "Jarak_ke_Zona_E_KM": 4.2,
+      "Populasi_Total": 32000,
+      "Footfall_Harian": 28000,
+      "Demand_Power": 2800,
+      "Risiko_Lalu_Lintas": [
+        {
+          "Risiko": "Ambulans darurat",
+          "Level": "Tinggi",
+          "Deskripsi": "Harus memberikan jalan untuk ambulans"
+        },
+        {
+          "Risiko": "Jam kunjungan pasien",
+          "Level": "Sedang",
+          "Deskripsi": "Padatnya pengunjung jam 10:00-14:00"
+        },
+        {
+          "Risiko": "Parkir RS penuh",
+          "Level": "Sedang",
+          "Deskripsi": "Parkir RS sering penuh saat weekend"
+        },
+        {
+          "Risiko": "Akses pasar",
+          "Level": "Rendah",
+          "Deskripsi": "Trotoar sempit di area Pasar Taman Kota"
+        }
+      ]
+    },
+    {
+      "Zona_ID": "ZONA_D",
+      "Nama_Zona": "Residential",
+      "Lokasi_HUB": "Apartemen St. Moritz",
+      "Latitude": -6.189,
+      "Longitude": 106.7385,
+      "Radius_KM": 3.0,
+      "Radius_Menit_Motor": 10,
+      "Radius_Menit_Mobil": 15,
+      "Jarak_ke_Zona_A_KM": 2.8,
+      "Jarak_ke_Zona_B_KM": 2.1,
+      "Jarak_ke_Zona_C_KM": 3.5,
+      "Jarak_ke_Zona_E_KM": 2.2,
+      "Populasi_Total": 95000,
+      "Footfall_Harian": 42000,
+      "Demand_Power": 4750,
+      "Risiko_Lalu_Lintas": [
+        {
+          "Risiko": "Aktivitas anak-anak",
+          "Level": "Sedang",
+          "Deskripsi": "Banyak anak bermain di area residensial"
+        },
+        {
+          "Risiko": "Jam pagi hari",
+          "Level": "Sedang",
+          "Deskripsi": "Warga berangkat kerja jam 06:00-08:00"
+        },
+        {
+          "Risiko": "Area perumahan padat",
+          "Level": "Rendah",
+          "Deskripsi": "Jalan sempit di komplek perumahan"
+        },
+        {
+          "Risiko": "Keamanan komplek",
+          "Level": "Rendah",
+          "Deskripsi": "Harus koordinasi dengan security"
+        }
+      ]
+    },
+    {
+      "Zona_ID": "ZONA_E",
+      "Nama_Zona": "Mall & Retail",
+      "Lokasi_HUB": "Puri Indah Mall",
+      "Latitude": -6.1875,
+      "Longitude": 106.7335,
+      "Radius_KM": 2.2,
+      "Radius_Menit_Motor": 7,
+      "Radius_Menit_Mobil": 11,
+      "Jarak_ke_Zona_A_KM": 1.5,
+      "Jarak_ke_Zona_B_KM": 2.5,
+      "Jarak_ke_Zona_C_KM": 4.2,
+      "Jarak_ke_Zona_D_KM": 2.2,
+      "Populasi_Total": 68000,
+      "Footfall_Harian": 55000,
+      "Demand_Power": 6600,
+      "Risiko_Lalu_Lintas": [
+        {
+          "Risiko": "Weekend crowd",
+          "Level": "Tinggi",
+          "Deskripsi": "Padatnya pengunjung mall saat weekend"
+        },
+        {
+          "Risiko": "Antrean masuk mall",
+          "Level": "Tinggi",
+          "Deskripsi": "Antrean kendaraan masuk area parkir mall"
+        },
+        {
+          "Risiko": "Parkir mall penuh",
+          "Level": "Sedang",
+          "Deskripsi": "Parkir mall sering penuh saat event"
+        },
+        {
+          "Risiko": "Akses jalan utama",
+          "Level": "Sedang",
+          "Deskripsi": "Jalan utama sering macet saat jam sibuk"
+        }
+      ]
+    }
+  ],
+  "Zona Distance Matrix": [
+    {
+      "From": "ZONA_A",
+      "To": "ZONA_B",
+      "Jarak_KM": 3.2,
+      "Waktu_Motor_Menit": 10,
+      "Waktu_Mobil_Menit": 18,
+      "Kondisi_Jalan": "Jalan utama, traffic tinggi"
+    },
+    {
+      "From": "ZONA_A",
+      "To": "ZONA_C",
+      "Jarak_KM": 4.5,
+      "Waktu_Motor_Menit": 14,
+      "Waktu_Mobil_Menit": 25,
+      "Kondisi_Jalan": "Jalan alternatif, traffic sedang"
+    },
+    {
+      "From": "ZONA_A",
+      "To": "ZONA_D",
+      "Jarak_KM": 2.8,
+      "Waktu_Motor_Menit": 8,
+      "Waktu_Mobil_Menit": 15,
+      "Kondisi_Jalan": "Jalan residensial, traffic rendah"
+    },
+    {
+      "From": "ZONA_A",
+      "To": "ZONA_E",
+      "Jarak_KM": 1.5,
+      "Waktu_Motor_Menit": 5,
+      "Waktu_Mobil_Menit": 8,
+      "Kondisi_Jalan": "Jalan utama Puri Indah, traffic tinggi"
+    },
+    {
+      "From": "ZONA_B",
+      "To": "ZONA_C",
+      "Jarak_KM": 5.8,
+      "Waktu_Motor_Menit": 18,
+      "Waktu_Mobil_Menit": 32,
+      "Kondisi_Jalan": "Jalan alternatif, traffic sedang"
+    },
+    {
+      "From": "ZONA_B",
+      "To": "ZONA_D",
+      "Jarak_KM": 2.1,
+      "Waktu_Motor_Menit": 6,
+      "Waktu_Mobil_Menit": 12,
+      "Kondisi_Jalan": "Jalan residensial, traffic rendah"
+    },
+    {
+      "From": "ZONA_B",
+      "To": "ZONA_E",
+      "Jarak_KM": 2.5,
+      "Waktu_Motor_Menit": 8,
+      "Waktu_Mobil_Menit": 14,
+      "Kondisi_Jalan": "Jalan utama, traffic tinggi"
+    },
+    {
+      "From": "ZONA_C",
+      "To": "ZONA_D",
+      "Jarak_KM": 3.5,
+      "Waktu_Motor_Menit": 11,
+      "Waktu_Mobil_Menit": 20,
+      "Kondisi_Jalan": "Jalan alternatif, traffic sedang"
+    },
+    {
+      "From": "ZONA_C",
+      "To": "ZONA_E",
+      "Jarak_KM": 4.2,
+      "Waktu_Motor_Menit": 13,
+      "Waktu_Mobil_Menit": 24,
+      "Kondisi_Jalan": "Jalan utama, traffic tinggi"
+    },
+    {
+      "From": "ZONA_D",
+      "To": "ZONA_E",
+      "Jarak_KM": 2.2,
+      "Waktu_Motor_Menit": 7,
+      "Waktu_Mobil_Menit": 13,
+      "Kondisi_Jalan": "Jalan residensial, traffic sedang"
+    }
+  ]
+}
