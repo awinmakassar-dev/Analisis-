@@ -20,7 +20,7 @@ interface BusinessNode {
     lat: number;
     lng: number;
     name: string;
-    type: 'CBD' | 'Mall' | 'Transport' | 'Office' | 'Market' | 'Residential' | 'Healthcare';
+    type: 'CBD' | 'Mall' | 'Transport' | 'Office' | 'Market' | 'Residential' | 'Healthcare' | 'School';
     traffic: number;
     score: number;
     peakHours: string;
@@ -208,10 +208,10 @@ const HeatmapSection = () => {
 
     // Gradient Config
     const gradient = useMemo(() => {
-        if (mode === 'land') return { 0.4: 'blue', 0.65: 'lime', 1: 'red' };
-        if (mode === 'infra') return { 0.2: 'blue', 0.6: 'cyan', 1: 'lime' };
-        if (mode === 'driver') return { 0.3: '#10b981', 0.6: '#eab308', 1: '#ef4444' };
-        return { 0.4: 'orange', 1: 'red' };
+        if (mode === 'land') return { 0.4: 'blue', 0.65: 'lime', 1: 'red' } as Record<number, string>;
+        if (mode === 'infra') return { 0.2: 'blue', 0.6: 'cyan', 1: 'lime' } as Record<number, string>;
+        if (mode === 'driver') return { 0.3: '#10b981', 0.6: '#eab308', 1: '#ef4444' } as Record<number, string>;
+        return { 0.4: 'orange', 1: 'red' } as Record<number, string>;
     }, [mode]);
 
     return (
